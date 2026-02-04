@@ -1,0 +1,6766 @@
+[{
+  "tickerId": "RELIANCE",
+  "companyName": "Reliance Industries Limited",
+  "industry": "Conglomerate",
+  "companyProfile": {
+    "about": "India's largest private sector company with operations in energy, petrochemicals, retail, telecom, and digital services.",
+    "sector": "Diversified",
+    "headquarters": "Mumbai, Maharashtra, India",
+    "founded": "1966",
+    "website": "https://www.ril.com"
+  },
+  "currentPrice": {
+    "NSE": 2850.00
+  },
+  "percentChange": 1.20,
+  "yearHigh": 3100.00,
+  "yearLow": 2400.00,
+  "stockTechnicalData": {
+    "dma50": 2780.00,
+    "dma200": 2650.00,
+    "shortTermTrend": "Bullish",
+    "longTermTrend": "Bullish",
+    "overallRating": "Buy",
+    "riskMeter": 2.8
+  },
+  "financials": {
+    "incomeStatement": {
+      "yearly": [
+        {
+          "period": "FY 2025",
+          "revenue": 980000,
+          "netProfit": 85000,
+          "eps": 125.00
+        }
+      ]
+    },
+    "balanceSheet": {
+      "yearly": [
+        {
+          "totalAssets": 2200000,
+          "totalLiabilities": 900000,
+          "cashAndEquivalents": 150000,
+          "longTermDebt": 200000,
+          "totalEquity": 1300000
+        }
+      ]
+    },
+    "cashFlow": {
+      "yearly": [
+        {
+          "operatingCashFlow": 120000,
+          "capitalExpenditure": 80000,
+          "freeCashFlow": 40000
+        }
+      ]
+    },
+    "keyRatios": {
+      "roe": 22.50,
+      "roce": 21.80,
+      "debtToEquity": 0.15,
+      "interestCoverage": 8.50
+    }
+  },
+  "keyMetrics": {
+    "marketCap": 1900000
+  },
+  "meta": {
+    "currency": "INR",
+    "unit": "crore",
+    "source": "grok-seed",
+    "fetchedAt": "2026-02-05"
+  }
+},
+
+
+ 
+{
+  "tickerId": "ADANIPORTS",
+  "companyName": "Adani Ports and Special Economic Zone Limited",
+  "industry": "Infrastructure - Ports",
+  "companyProfile": {
+    "about": "India's largest private port operator, managing ports, terminals, and related logistics infrastructure across the country.",
+    "sector": "Infrastructure",
+    "headquarters": "Ahmedabad, Gujarat, India",
+    "founded": "1998",
+    "website": "https://www.adaniports.com"
+  },
+  "currentPrice": {
+    "NSE": 1420.00
+  },
+  "percentChange": 1.80,
+  "yearHigh": 1625.00,
+  "yearLow": 950.00,
+  "stockTechnicalData": {
+    "dma50": 1380.00,
+    "dma200": 1250.00,
+    "shortTermTrend": "Bullish",
+    "longTermTrend": "Bullish",
+    "overallRating": "Buy",
+    "riskMeter": 3.1
+  },
+  "financials": {
+    "incomeStatement": {
+      "yearly": [
+        {
+          "period": "FY 2025",
+          "revenue": 21000,
+          "netProfit": 7800,
+          "eps": 36.20
+        }
+      ]
+    },
+    "balanceSheet": {
+      "yearly": [
+        {
+          "totalAssets": 92000,
+          "totalLiabilities": 42000,
+          "cashAndEquivalents": 8500,
+          "longTermDebt": 28000,
+          "totalEquity": 50000
+        }
+      ]
+    },
+    "cashFlow": {
+      "yearly": [
+        {
+          "operatingCashFlow": 10500,
+          "capitalExpenditure": 6200,
+          "freeCashFlow": 4300
+        }
+      ]
+    },
+    "keyRatios": {
+      "roe": 19.80,
+      "roce": 20.50,
+      "debtToEquity": 0.48,
+      "interestCoverage": 6.20
+    }
+  },
+  "keyMetrics": {
+    "marketCap": 306000
+  },
+  "meta": {
+    "currency": "INR",
+    "unit": "crore",
+    "source": "grok-seed",
+    "fetchedAt": "2026-02-05"
+  }
+},
+
+{
+  "tickerId": "APOLLOHOSP",
+  "companyName": "Apollo Hospitals Enterprise Limited",
+  "industry": "Healthcare - Hospitals",
+  "companyProfile": {
+    "about": "One of India's largest private healthcare providers operating a chain of hospitals, pharmacies, diagnostic centers, and primary care facilities.",
+    "sector": "Healthcare",
+    "headquarters": "Chennai, Tamil Nadu, India",
+    "founded": "1983",
+    "website": "https://www.apollohospitals.com"
+  },
+  "currentPrice": {
+    "NSE": 6850.00
+  },
+  "percentChange": 1.35,
+  "yearHigh": 7200.00,
+  "yearLow": 5200.00,
+  "stockTechnicalData": {
+    "dma50": 6700.00,
+    "dma200": 6200.00,
+    "shortTermTrend": "Bullish",
+    "longTermTrend": "Bullish",
+    "overallRating": "Buy",
+    "riskMeter": 2.9
+  },
+  "financials": {
+    "incomeStatement": {
+      "yearly": [
+        {
+          "period": "FY 2025",
+          "revenue": 18500,
+          "netProfit": 1650,
+          "eps": 115.00
+        }
+      ]
+    },
+    "balanceSheet": {
+      "yearly": [
+        {
+          "totalAssets": 22000,
+          "totalLiabilities": 9500,
+          "cashAndEquivalents": 2800,
+          "longTermDebt": 5200,
+          "totalEquity": 12500
+        }
+      ]
+    },
+    "cashFlow": {
+      "yearly": [
+        {
+          "operatingCashFlow": 3200,
+          "capitalExpenditure": 1800,
+          "freeCashFlow": 1400
+        }
+      ]
+    },
+    "keyRatios": {
+      "roe": 19.20,
+      "roce": 20.10,
+      "debtToEquity": 0.42,
+      "interestCoverage": 7.80
+    }
+  },
+  "keyMetrics": {
+    "marketCap": 98000
+  },
+  "meta": {
+    "currency": "INR",
+    "unit": "crore",
+    "source": "grok-seed",
+    "fetchedAt": "2026-02-05"
+  }
+},
+
+{
+  "tickerId": "ASIANPAINT",
+  "companyName": "Asian Paints Limited",
+  "industry": "Paints & Coatings",
+  "companyProfile": {
+    "about": "India's leading paints and coatings company, offering decorative paints, industrial coatings, home décor products, and related services.",
+    "sector": "Consumer Goods",
+    "headquarters": "Mumbai, Maharashtra, India",
+    "founded": "1942",
+    "website": "https://www.asianpaints.com"
+  },
+  "currentPrice": {
+    "NSE": 2850.00
+  },
+  "percentChange": 0.95,
+  "yearHigh": 3200.00,
+  "yearLow": 2450.00,
+  "stockTechnicalData": {
+    "dma50": 2780.00,
+    "dma200": 2650.00,
+    "shortTermTrend": "Bullish",
+    "longTermTrend": "Bullish",
+    "overallRating": "Buy",
+    "riskMeter": 2.6
+  },
+  "financials": {
+    "incomeStatement": {
+      "yearly": [
+        {
+          "period": "FY 2025",
+          "revenue": 38000,
+          "netProfit": 4800,
+          "eps": 50.20
+        }
+      ]
+    },
+    "balanceSheet": {
+      "yearly": [
+        {
+          "totalAssets": 18000,
+          "totalLiabilities": 4800,
+          "cashAndEquivalents": 3200,
+          "longTermDebt": 800,
+          "totalEquity": 13200
+        }
+      ]
+    },
+    "cashFlow": {
+      "yearly": [
+        {
+          "operatingCashFlow": 5200,
+          "capitalExpenditure": 1800,
+          "freeCashFlow": 3400
+        }
+      ]
+    },
+    "keyRatios": {
+      "roe": 28.50,
+      "roce": 32.40,
+      "debtToEquity": 0.06,
+      "interestCoverage": 45.00
+    }
+  },
+  "keyMetrics": {
+    "marketCap": 273000
+  },
+  "meta": {
+    "currency": "INR",
+    "unit": "crore",
+    "source": "grok-seed",
+    "fetchedAt": "2026-02-05"
+  }
+},
+{
+  "tickerId": "AXISBANK",
+  "companyName": "Axis Bank Limited",
+  "industry": "Banking - Private Sector",
+  "companyProfile": {
+    "about": "One of India's leading private sector banks offering a wide range of financial services including retail banking, corporate banking, investment banking, and digital banking solutions.",
+    "sector": "Financial Services",
+    "headquarters": "Mumbai, Maharashtra, India",
+    "founded": "1993",
+    "website": "https://www.axisbank.com"
+  },
+  "currentPrice": {
+    "NSE": 1180.00
+  },
+  "percentChange": 1.10,
+  "yearHigh": 1280.00,
+  "yearLow": 950.00,
+  "stockTechnicalData": {
+    "dma50": 1150.00,
+    "dma200": 1080.00,
+    "shortTermTrend": "Bullish",
+    "longTermTrend": "Bullish",
+    "overallRating": "Buy",
+    "riskMeter": 3.0
+  },
+  "financials": {
+    "incomeStatement": {
+      "yearly": [
+        {
+          "period": "FY 2025",
+          "revenue": 98000,
+          "netProfit": 21000,
+          "eps": 68.50
+        }
+      ]
+    },
+    "balanceSheet": {
+      "yearly": [
+        {
+          "totalAssets": 1250000,
+          "totalLiabilities": 1120000,
+          "cashAndEquivalents": 85000,
+          "longTermDebt": 120000,
+          "totalEquity": 130000
+        }
+      ]
+    },
+    "cashFlow": {
+      "yearly": [
+        {
+          "operatingCashFlow": 45000,
+          "capitalExpenditure": 8000,
+          "freeCashFlow": 37000
+        }
+      ]
+    },
+    "keyRatios": {
+      "roe": 18.80,
+      "roce": 19.50,
+      "debtToEquity": 0.45,
+      "interestCoverage": 6.80
+    }
+  },
+  "keyMetrics": {
+    "marketCap": 365000
+  },
+  "meta": {
+    "currency": "INR",
+    "unit": "crore",
+    "source": "grok-seed",
+    "fetchedAt": "2026-02-05"
+  }
+},
+{
+  "tickerId": "BAJAJ-AUTO",
+  "companyName": "Bajaj Auto Limited",
+  "industry": "Automobiles - Two & Three Wheelers",
+  "companyProfile": {
+    "about": "Leading Indian manufacturer of motorcycles, scooters, and three-wheelers with a strong presence in domestic and export markets.",
+    "sector": "Automobile",
+    "headquarters": "Pune, Maharashtra, India",
+    "founded": "1945",
+    "website": "https://www.bajajauto.com"
+  },
+  "currentPrice": {
+    "NSE": 9800.00
+  },
+  "percentChange": 1.15,
+  "yearHigh": 10500.00,
+  "yearLow": 7200.00,
+  "stockTechnicalData": {
+    "dma50": 9600.00,
+    "dma200": 8800.00,
+    "shortTermTrend": "Bullish",
+    "longTermTrend": "Bullish",
+    "overallRating": "Buy",
+    "riskMeter": 2.7
+  },
+  "financials": {
+    "incomeStatement": {
+      "yearly": [
+        {
+          "period": "FY 2025",
+          "revenue": 48000,
+          "netProfit": 8200,
+          "eps": 300.50
+        }
+      ]
+    },
+    "balanceSheet": {
+      "yearly": [
+        {
+          "totalAssets": 32000,
+          "totalLiabilities": 7800,
+          "cashAndEquivalents": 9500,
+          "longTermDebt": 400,
+          "totalEquity": 24200
+        }
+      ]
+    },
+    "cashFlow": {
+      "yearly": [
+        {
+          "operatingCashFlow": 9500,
+          "capitalExpenditure": 2800,
+          "freeCashFlow": 6700
+        }
+      ]
+    },
+    "keyRatios": {
+      "roe": 29.40,
+      "roce": 34.80,
+      "debtToEquity": 0.02,
+      "interestCoverage": 85.00
+    }
+  },
+  "keyMetrics": {
+    "marketCap": 275000
+  },
+  "meta": {
+    "currency": "INR",
+    "unit": "crore",
+    "source": "grok-seed",
+    "fetchedAt": "2026-02-05"
+  }
+},
+{
+  "tickerId": "BAJFINANCE",
+  "companyName": "Bajaj Finance Limited",
+  "industry": "NBFC - Consumer Finance",
+  "companyProfile": {
+    "about": "Leading non-banking financial company in India offering consumer finance, SME loans, commercial lending, rural lending, deposits, and digital financial solutions.",
+    "sector": "Financial Services",
+    "headquarters": "Pune, Maharashtra, India",
+    "founded": "1987",
+    "website": "https://www.bajajfinserv.in"
+  },
+  "currentPrice": {
+    "NSE": 7200.00
+  },
+  "percentChange": 1.25,
+  "yearHigh": 7800.00,
+  "yearLow": 5800.00,
+  "stockTechnicalData": {
+    "dma50": 7000.00,
+    "dma200": 6500.00,
+    "shortTermTrend": "Bullish",
+    "longTermTrend": "Bullish",
+    "overallRating": "Buy",
+    "riskMeter": 3.2
+  },
+  "financials": {
+    "incomeStatement": {
+      "yearly": [
+        {
+          "period": "FY 2025",
+          "revenue": 52000,
+          "netProfit": 14500,
+          "eps": 235.00
+        }
+      ]
+    },
+    "balanceSheet": {
+      "yearly": [
+        {
+          "totalAssets": 380000,
+          "totalLiabilities": 320000,
+          "cashAndEquivalents": 18000,
+          "longTermDebt": 240000,
+          "totalEquity": 60000
+        }
+      ]
+    },
+    "cashFlow": {
+      "yearly": [
+        {
+          "operatingCashFlow": 22000,
+          "capitalExpenditure": 3500,
+          "freeCashFlow": 18500
+        }
+      ]
+    },
+    "keyRatios": {
+      "roe": 24.80,
+      "roce": 19.50,
+      "debtToEquity": 0.40,
+      "interestCoverage": 5.80
+    }
+  },
+  "keyMetrics": {
+    "marketCap": 445000
+  },
+  "meta": {
+    "currency": "INR",
+    "unit": "crore",
+    "source": "grok-seed",
+    "fetchedAt": "2026-02-05"
+  }
+},
+{
+  "tickerId": "BAJAJFINSV",
+  "companyName": "Bajaj Finserv Limited",
+  "industry": "Financial Services - Holding Company",
+  "companyProfile": {
+    "about": "Leading Indian financial services conglomerate with interests in insurance, consumer finance, housing finance, wealth management, and other financial products through its subsidiaries.",
+    "sector": "Financial Services",
+    "headquarters": "Pune, Maharashtra, India",
+    "founded": "2008",
+    "website": "https://www.bajajfinserv.in"
+  },
+  "currentPrice": {
+    "NSE": 1850.00
+  },
+  "percentChange": 1.05,
+  "yearHigh": 2050.00,
+  "yearLow": 1450.00,
+  "stockTechnicalData": {
+    "dma50": 1800.00,
+    "dma200": 1680.00,
+    "shortTermTrend": "Bullish",
+    "longTermTrend": "Bullish",
+    "overallRating": "Buy",
+    "riskMeter": 2.9
+  },
+  "financials": {
+    "incomeStatement": {
+      "yearly": [
+        {
+          "period": "FY 2025",
+          "revenue": 38000,
+          "netProfit": 9200,
+          "eps": 145.00
+        }
+      ]
+    },
+    "balanceSheet": {
+      "yearly": [
+        {
+          "totalAssets": 48000,
+          "totalLiabilities": 18000,
+          "cashAndEquivalents": 6500,
+          "longTermDebt": 8000,
+          "totalEquity": 30000
+        }
+      ]
+    },
+    "cashFlow": {
+      "yearly": [
+        {
+          "operatingCashFlow": 10500,
+          "capitalExpenditure": 2200,
+          "freeCashFlow": 8300
+        }
+      ]
+    },
+    "keyRatios": {
+      "roe": 21.60,
+      "roce": 22.40,
+      "debtToEquity": 0.27,
+      "interestCoverage": 9.50
+    }
+  },
+  "keyMetrics": {
+    "marketCap": 295000
+  },
+  "meta": {
+    "currency": "INR",
+    "unit": "crore",
+    "source": "grok-seed",
+    "fetchedAt": "2026-02-05"
+  }
+},
+{
+  "tickerId": "BPCL",
+  "companyName": "Bharat Petroleum Corporation Limited",
+  "industry": "Oil & Gas - Refining & Marketing",
+  "companyProfile": {
+    "about": "Major public sector oil company in India engaged in refining crude oil, marketing petroleum products, and operating fuel retail outlets across the country.",
+    "sector": "Energy",
+    "headquarters": "Mumbai, Maharashtra, India",
+    "founded": "1976",
+    "website": "https://www.bharatpetroleum.in"
+  },
+  "currentPrice": {
+    "NSE": 320.00
+  },
+  "percentChange": 1.40,
+  "yearHigh": 380.00,
+  "yearLow": 250.00,
+  "stockTechnicalData": {
+    "dma50": 310.00,
+    "dma200": 290.00,
+    "shortTermTrend": "Bullish",
+    "longTermTrend": "Bullish",
+    "overallRating": "Buy",
+    "riskMeter": 3.3
+  },
+  "financials": {
+    "incomeStatement": {
+      "yearly": [
+        {
+          "period": "FY 2025",
+          "revenue": 480000,
+          "netProfit": 14500,
+          "eps": 105.00
+        }
+      ]
+    },
+    "balanceSheet": {
+      "yearly": [
+        {
+          "totalAssets": 180000,
+          "totalLiabilities": 110000,
+          "cashAndEquivalents": 12000,
+          "longTermDebt": 35000,
+          "totalEquity": 70000
+        }
+      ]
+    },
+    "cashFlow": {
+      "yearly": [
+        {
+          "operatingCashFlow": 22000,
+          "capitalExpenditure": 12000,
+          "freeCashFlow": 10000
+        }
+      ]
+    },
+    "keyRatios": {
+      "roe": 20.80,
+      "roce": 19.50,
+      "debtToEquity": 0.50,
+      "interestCoverage": 5.20
+    }
+  },
+  "keyMetrics": {
+    "marketCap": 44000
+  },
+  "meta": {
+    "currency": "INR",
+    "unit": "crore",
+    "source": "grok-seed",
+    "fetchedAt": "2026-02-05"
+  }
+},
+{
+  "tickerId": "BHARTIARTL",
+  "companyName": "Bharti Airtel Limited",
+  "industry": "Telecommunications - Mobile & Broadband",
+  "companyProfile": {
+    "about": "One of India's largest telecommunications service providers offering mobile telephony, broadband, digital TV, and enterprise solutions across India and other countries.",
+    "sector": "Telecom",
+    "headquarters": "New Delhi, India",
+    "founded": "1995",
+    "website": "https://www.airtel.in"
+  },
+  "currentPrice": {
+    "NSE": 1650.00
+  },
+  "percentChange": 1.30,
+  "yearHigh": 1820.00,
+  "yearLow": 1200.00,
+  "stockTechnicalData": {
+    "dma50": 1600.00,
+    "dma200": 1450.00,
+    "shortTermTrend": "Bullish",
+    "longTermTrend": "Bullish",
+    "overallRating": "Buy",
+    "riskMeter": 3.0
+  },
+  "financials": {
+    "incomeStatement": {
+      "yearly": [
+        {
+          "period": "FY 2025",
+          "revenue": 152000,
+          "netProfit": 22000,
+          "eps": 40.50
+        }
+      ]
+    },
+    "balanceSheet": {
+      "yearly": [
+        {
+          "totalAssets": 380000,
+          "totalLiabilities": 280000,
+          "cashAndEquivalents": 18000,
+          "longTermDebt": 140000,
+          "totalEquity": 100000
+        }
+      ]
+    },
+    "cashFlow": {
+      "yearly": [
+        {
+          "operatingCashFlow": 52000,
+          "capitalExpenditure": 28000,
+          "freeCashFlow": 24000
+        }
+      ]
+    },
+    "keyRatios": {
+      "roe": 19.80,
+      "roce": 18.50,
+      "debtToEquity": 0.45,
+      "interestCoverage": 5.60
+    }
+  },
+  "keyMetrics": {
+    "marketCap": 310000
+  },
+  "meta": {
+    "currency": "INR",
+    "unit": "crore",
+    "source": "grok-seed",
+    "fetchedAt": "2026-02-05"
+  }
+},
+{
+  "tickerId": "BRITANNIA",
+  "companyName": "Britannia Industries Limited",
+  "industry": "FMCG - Food & Bakery",
+  "companyProfile": {
+    "about": "One of India's leading food products companies, manufacturing and selling biscuits, bread, cakes, dairy products, and other bakery items.",
+    "sector": "Consumer Goods",
+    "headquarters": "Kolkata, West Bengal, India",
+    "founded": "1892",
+    "website": "https://www.britannia.co.in"
+  },
+  "currentPrice": {
+    "NSE": 5200.00
+  },
+  "percentChange": 0.85,
+  "yearHigh": 5800.00,
+  "yearLow": 4600.00,
+  "stockTechnicalData": {
+    "dma50": 5100.00,
+    "dma200": 4950.00,
+    "shortTermTrend": "Bullish",
+    "longTermTrend": "Bullish",
+    "overallRating": "Buy",
+    "riskMeter": 2.5
+  },
+  "financials": {
+    "incomeStatement": {
+      "yearly": [
+        {
+          "period": "FY 2025",
+          "revenue": 17000,
+          "netProfit": 1650,
+          "eps": 68.50
+        }
+      ]
+    },
+    "balanceSheet": {
+      "yearly": [
+        {
+          "totalAssets": 8500,
+          "totalLiabilities": 3200,
+          "cashAndEquivalents": 1800,
+          "longTermDebt": 600,
+          "totalEquity": 5300
+        }
+      ]
+    },
+    "cashFlow": {
+      "yearly": [
+        {
+          "operatingCashFlow": 2100,
+          "capitalExpenditure": 800,
+          "freeCashFlow": 1300
+        }
+      ]
+    },
+    "keyRatios": {
+      "roe": 26.80,
+      "roce": 31.20,
+      "debtToEquity": 0.11,
+      "interestCoverage": 38.00
+    }
+  },
+  "keyMetrics": {
+    "marketCap": 125000
+  },
+  "meta": {
+    "currency": "INR",
+    "unit": "crore",
+    "source": "grok-seed",
+    "fetchedAt": "2026-02-05"
+  }
+},
+{
+  "tickerId": "CIPLA",
+  "companyName": "Cipla Limited",
+  "industry": "Pharmaceuticals",
+  "companyProfile": {
+    "about": "Leading Indian pharmaceutical company manufacturing and marketing a wide range of prescription drugs, generic medicines, and active pharmaceutical ingredients globally.",
+    "sector": "Healthcare",
+    "headquarters": "Mumbai, Maharashtra, India",
+    "founded": "1935",
+    "website": "https://www.cipla.com"
+  },
+  "currentPrice": {
+    "NSE": 1480.00
+  },
+  "percentChange": 1.10,
+  "yearHigh": 1680.00,
+  "yearLow": 1120.00,
+  "stockTechnicalData": {
+    "dma50": 1450.00,
+    "dma200": 1380.00,
+    "shortTermTrend": "Bullish",
+    "longTermTrend": "Bullish",
+    "overallRating": "Buy",
+    "riskMeter": 2.8
+  },
+  "financials": {
+    "incomeStatement": {
+      "yearly": [
+        {
+          "period": "FY 2025",
+          "revenue": 26500,
+          "netProfit": 4200,
+          "eps": 52.00
+        }
+      ]
+    },
+    "balanceSheet": {
+      "yearly": [
+        {
+          "totalAssets": 32000,
+          "totalLiabilities": 6800,
+          "cashAndEquivalents": 5200,
+          "longTermDebt": 1200,
+          "totalEquity": 25200
+        }
+      ]
+    },
+    "cashFlow": {
+      "yearly": [
+        {
+          "operatingCashFlow": 5800,
+          "capitalExpenditure": 2200,
+          "freeCashFlow": 3600
+        }
+      ]
+    },
+    "keyRatios": {
+      "roe": 19.50,
+      "roce": 21.20,
+      "debtToEquity": 0.05,
+      "interestCoverage": 28.00
+    }
+  },
+  "keyMetrics": {
+    "marketCap": 119000
+  },
+  "meta": {
+    "currency": "INR",
+    "unit": "crore",
+    "source": "grok-seed",
+    "fetchedAt": "2026-02-05"
+  }
+},
+{
+  "tickerId": "COALINDIA",
+  "companyName": "Coal India Limited",
+  "industry": "Coal Mining & Production",
+  "companyProfile": {
+    "about": "World's largest coal mining company, a Maharatna public sector undertaking responsible for majority of India's coal production and distribution.",
+    "sector": "Energy",
+    "headquarters": "Kolkata, West Bengal, India",
+    "founded": "1975",
+    "website": "https://www.coalindia.in"
+  },
+  "currentPrice": {
+    "NSE": 480.00
+  },
+  "percentChange": 1.15,
+  "yearHigh": 540.00,
+  "yearLow": 380.00,
+  "stockTechnicalData": {
+    "dma50": 465.00,
+    "dma200": 440.00,
+    "shortTermTrend": "Bullish",
+    "longTermTrend": "Bullish",
+    "overallRating": "Buy",
+    "riskMeter": 2.9
+  },
+  "financials": {
+    "incomeStatement": {
+      "yearly": [
+        {
+          "period": "FY 2025",
+          "revenue": 152000,
+          "netProfit": 32000,
+          "eps": 52.00
+        }
+      ]
+    },
+    "balanceSheet": {
+      "yearly": [
+        {
+          "totalAssets": 135000,
+          "totalLiabilities": 48000,
+          "cashAndEquivalents": 32000,
+          "longTermDebt": 5000,
+          "totalEquity": 87000
+        }
+      ]
+    },
+    "cashFlow": {
+      "yearly": [
+        {
+          "operatingCashFlow": 38000,
+          "capitalExpenditure": 12000,
+          "freeCashFlow": 26000
+        }
+      ]
+    },
+    "keyRatios": {
+      "roe": 22.40,
+      "roce": 25.80,
+      "debtToEquity": 0.06,
+      "interestCoverage": 65.00
+    }
+  },
+  "keyMetrics": {
+    "marketCap": 295000
+  },
+  "meta": {
+    "currency": "INR",
+    "unit": "crore",
+    "source": "grok-seed",
+    "fetchedAt": "2026-02-05"
+  }
+},
+{
+  "tickerId": "DIVISLAB",
+  "companyName": "Divi's Laboratories Limited",
+  "industry": "Pharmaceuticals - API & Intermediates",
+  "companyProfile": {
+    "about": "Leading Indian manufacturer of active pharmaceutical ingredients (APIs), intermediates, and nutraceutical ingredients with strong global export presence.",
+    "sector": "Healthcare",
+    "headquarters": "Hyderabad, Telangana, India",
+    "founded": "1990",
+    "website": "https://www.divislabs.com"
+  },
+  "currentPrice": {
+    "NSE": 5200.00
+  },
+  "percentChange": 0.90,
+  "yearHigh": 5800.00,
+  "yearLow": 4200.00,
+  "stockTechnicalData": {
+    "dma50": 5100.00,
+    "dma200": 4850.00,
+    "shortTermTrend": "Bullish",
+    "longTermTrend": "Bullish",
+    "overallRating": "Buy",
+    "riskMeter": 2.6
+  },
+  "financials": {
+    "incomeStatement": {
+      "yearly": [
+        {
+          "period": "FY 2025",
+          "revenue": 9200,
+          "netProfit": 2100,
+          "eps": 79.00
+        }
+      ]
+    },
+    "balanceSheet": {
+      "yearly": [
+        {
+          "totalAssets": 12000,
+          "totalLiabilities": 1800,
+          "cashAndEquivalents": 3200,
+          "longTermDebt": 0,
+          "totalEquity": 10200
+        }
+      ]
+    },
+    "cashFlow": {
+      "yearly": [
+        {
+          "operatingCashFlow": 2800,
+          "capitalExpenditure": 1200,
+          "freeCashFlow": 1600
+        }
+      ]
+    },
+    "keyRatios": {
+      "roe": 21.80,
+      "roce": 24.50,
+      "debtToEquity": 0.00,
+      "interestCoverage": 120.00
+    }
+  },
+  "keyMetrics": {
+    "marketCap": 138000
+  },
+  "meta": {
+    "currency": "INR",
+    "unit": "crore",
+    "source": "grok-seed",
+    "fetchedAt": "2026-02-05"
+  }
+},{
+  "tickerId": "DRREDDY",
+  "companyName": "Dr. Reddy's Laboratories Limited",
+  "industry": "Pharmaceuticals",
+  "companyProfile": {
+    "about": "Leading global pharmaceutical company specializing in generics, branded formulations, biosimilars, and active pharmaceutical ingredients with a strong presence in regulated markets.",
+    "sector": "Healthcare",
+    "headquarters": "Hyderabad, Telangana, India",
+    "founded": "1984",
+    "website": "https://www.drreddys.com"
+  },
+  "currentPrice": {
+    "NSE": 6500.00
+  },
+  "percentChange": 1.05,
+  "yearHigh": 7200.00,
+  "yearLow": 5200.00,
+  "stockTechnicalData": {
+    "dma50": 6350.00,
+    "dma200": 6000.00,
+    "shortTermTrend": "Bullish",
+    "longTermTrend": "Bullish",
+    "overallRating": "Buy",
+    "riskMeter": 2.7
+  },
+  "financials": {
+    "incomeStatement": {
+      "yearly": [
+        {
+          "period": "FY 2025",
+          "revenue": 28000,
+          "netProfit": 5200,
+          "eps": 312.00
+        }
+      ]
+    },
+    "balanceSheet": {
+      "yearly": [
+        {
+          "totalAssets": 32000,
+          "totalLiabilities": 7800,
+          "cashAndEquivalents": 6800,
+          "longTermDebt": 1800,
+          "totalEquity": 24200
+        }
+      ]
+    },
+    "cashFlow": {
+      "yearly": [
+        {
+          "operatingCashFlow": 6800,
+          "capitalExpenditure": 2800,
+          "freeCashFlow": 4000
+        }
+      ]
+    },
+    "keyRatios": {
+      "roe": 20.50,
+      "roce": 22.10,
+      "debtToEquity": 0.07,
+      "interestCoverage": 35.00
+    }
+  },
+  "keyMetrics": {
+    "marketCap": 108000
+  },
+  "meta": {
+    "currency": "INR",
+    "unit": "crore",
+    "source": "grok-seed",
+    "fetchedAt": "2026-02-05"
+  }
+},
+{
+  "tickerId": "EICHERMOT",
+  "companyName": "Eicher Motors Limited",
+  "industry": "Automobiles - Two Wheelers & Commercial Vehicles",
+  "companyProfile": {
+    "about": "Leading manufacturer of premium motorcycles under the Royal Enfield brand and commercial vehicles through its joint venture VE Commercial Vehicles.",
+    "sector": "Automobile",
+    "headquarters": "Gurgaon, Haryana, India",
+    "founded": "1982",
+    "website": "https://www.eichermotors.com"
+  },
+  "currentPrice": {
+    "NSE": 5200.00
+  },
+  "percentChange": 1.20,
+  "yearHigh": 5800.00,
+  "yearLow": 4200.00,
+  "stockTechnicalData": {
+    "dma50": 5100.00,
+    "dma200": 4800.00,
+    "shortTermTrend": "Bullish",
+    "longTermTrend": "Bullish",
+    "overallRating": "Buy",
+    "riskMeter": 2.8
+  },
+  "financials": {
+    "incomeStatement": {
+      "yearly": [
+        {
+          "period": "FY 2025",
+          "revenue": 16500,
+          "netProfit": 4200,
+          "eps": 153.00
+        }
+      ]
+    },
+    "balanceSheet": {
+      "yearly": [
+        {
+          "totalAssets": 18000,
+          "totalLiabilities": 4200,
+          "cashAndEquivalents": 4800,
+          "longTermDebt": 800,
+          "totalEquity": 13800
+        }
+      ]
+    },
+    "cashFlow": {
+      "yearly": [
+        {
+          "operatingCashFlow": 5200,
+          "capitalExpenditure": 1800,
+          "freeCashFlow": 3400
+        }
+      ]
+    },
+    "keyRatios": {
+      "roe": 28.50,
+      "roce": 32.80,
+      "debtToEquity": 0.06,
+      "interestCoverage": 65.00
+    }
+  },
+  "keyMetrics": {
+    "marketCap": 142000
+  },
+  "meta": {
+    "currency": "INR",
+    "unit": "crore",
+    "source": "grok-seed",
+    "fetchedAt": "2026-02-05"
+  }
+},
+{
+  "tickerId": "GRASIM",
+  "companyName": "Grasim Industries Limited",
+  "industry": "Diversified - Cement, Chemicals, Textiles",
+  "companyProfile": {
+    "about": "Leading Indian conglomerate with major operations in cement (UltraTech), chemicals (Aditya Birla Chemicals), viscose staple fibre, and textiles.",
+    "sector": "Diversified",
+    "headquarters": "Mumbai, Maharashtra, India",
+    "founded": "1947",
+    "website": "https://www.grasim.com"
+  },
+  "currentPrice": {
+    "NSE": 2650.00
+  },
+  "percentChange": 1.05,
+  "yearHigh": 2950.00,
+  "yearLow": 2200.00,
+  "stockTechnicalData": {
+    "dma50": 2600.00,
+    "dma200": 2450.00,
+    "shortTermTrend": "Bullish",
+    "longTermTrend": "Bullish",
+    "overallRating": "Buy",
+    "riskMeter": 2.9
+  },
+  "financials": {
+    "incomeStatement": {
+      "yearly": [
+        {
+          "period": "FY 2025",
+          "revenue": 135000,
+          "netProfit": 10500,
+          "eps": 160.00
+        }
+      ]
+    },
+    "balanceSheet": {
+      "yearly": [
+        {
+          "totalAssets": 220000,
+          "totalLiabilities": 95000,
+          "cashAndEquivalents": 18000,
+          "longTermDebt": 45000,
+          "totalEquity": 125000
+        }
+      ]
+    },
+    "cashFlow": {
+      "yearly": [
+        {
+          "operatingCashFlow": 22000,
+          "capitalExpenditure": 14000,
+          "freeCashFlow": 8000
+        }
+      ]
+    },
+    "keyRatios": {
+      "roe": 19.20,
+      "roce": 18.80,
+      "debtToEquity": 0.36,
+      "interestCoverage": 6.50
+    }
+  },
+  "keyMetrics": {
+    "marketCap": 175000
+  },
+  "meta": {
+    "currency": "INR",
+    "unit": "crore",
+    "source": "grok-seed",
+    "fetchedAt": "2026-02-05"
+  }
+},
+{
+  "tickerId": "HCLTECH",
+  "companyName": "HCL Technologies Limited",
+  "industry": "IT Services & Consulting",
+  "companyProfile": {
+    "about": "Global IT services company providing software development, digital transformation, engineering, cloud, and IT infrastructure services to Fortune 500 clients.",
+    "sector": "Technology",
+    "headquarters": "Noida, Uttar Pradesh, India",
+    "founded": "1976",
+    "website": "https://www.hcltech.com"
+  },
+  "currentPrice": {
+    "NSE": 1850.00
+  },
+  "percentChange": 0.95,
+  "yearHigh": 2050.00,
+  "yearLow": 1450.00,
+  "stockTechnicalData": {
+    "dma50": 1800.00,
+    "dma200": 1680.00,
+    "shortTermTrend": "Bullish",
+    "longTermTrend": "Bullish",
+    "overallRating": "Buy",
+    "riskMeter": 2.7
+  },
+  "financials": {
+    "incomeStatement": {
+      "yearly": [
+        {
+          "period": "FY 2025",
+          "revenue": 110000,
+          "netProfit": 16500,
+          "eps": 60.50
+        }
+      ]
+    },
+    "balanceSheet": {
+      "yearly": [
+        {
+          "totalAssets": 58000,
+          "totalLiabilities": 18000,
+          "cashAndEquivalents": 12000,
+          "longTermDebt": 2000,
+          "totalEquity": 40000
+        }
+      ]
+    },
+    "cashFlow": {
+      "yearly": [
+        {
+          "operatingCashFlow": 18000,
+          "capitalExpenditure": 3500,
+          "freeCashFlow": 14500
+        }
+      ]
+    },
+    "keyRatios": {
+      "roe": 22.80,
+      "roce": 28.50,
+      "debtToEquity": 0.05,
+      "interestCoverage": 85.00
+    }
+  },
+  "keyMetrics": {
+    "marketCap": 500000
+  },
+  "meta": {
+    "currency": "INR",
+    "unit": "crore",
+    "source": "grok-seed",
+    "fetchedAt": "2026-02-05"
+  }
+},
+{
+  "tickerId": "HDFCBANK",
+  "companyName": "HDFC Bank Limited",
+  "industry": "Banking - Private Sector",
+  "companyProfile": {
+    "about": "India's largest private sector bank by assets, offering retail banking, wholesale banking, treasury, and digital banking services across the country.",
+    "sector": "Financial Services",
+    "headquarters": "Mumbai, Maharashtra, India",
+    "founded": "1994",
+    "website": "https://www.hdfcbank.com"
+  },
+  "currentPrice": {
+    "NSE": 1750.00
+  },
+  "percentChange": 0.95,
+  "yearHigh": 1880.00,
+  "yearLow": 1450.00,
+  "stockTechnicalData": {
+    "dma50": 1700.00,
+    "dma200": 1620.00,
+    "shortTermTrend": "Bullish",
+    "longTermTrend": "Bullish",
+    "overallRating": "Buy",
+    "riskMeter": 2.8
+  },
+  "financials": {
+    "incomeStatement": {
+      "yearly": [
+        {
+          "period": "FY 2025",
+          "revenue": 280000,
+          "netProfit": 65000,
+          "eps": 86.50
+        }
+      ]
+    },
+    "balanceSheet": {
+      "yearly": [
+        {
+          "totalAssets": 3800000,
+          "totalLiabilities": 3400000,
+          "cashAndEquivalents": 220000,
+          "longTermDebt": 350000,
+          "totalEquity": 400000
+        }
+      ]
+    },
+    "cashFlow": {
+      "yearly": [
+        {
+          "operatingCashFlow": 120000,
+          "capitalExpenditure": 18000,
+          "freeCashFlow": 102000
+        }
+      ]
+    },
+    "keyRatios": {
+      "roe": 18.20,
+      "roce": 18.80,
+      "debtToEquity": 0.48,
+      "interestCoverage": 6.50
+    }
+  },
+  "keyMetrics": {
+    "marketCap": 1320000
+  },
+  "meta": {
+    "currency": "INR",
+    "unit": "crore",
+    "source": "grok-seed",
+    "fetchedAt": "2026-02-05"
+  }
+},
+{
+  "tickerId": "HDFCLIFE",
+  "companyName": "HDFC Life Insurance Company Limited",
+  "industry": "Insurance - Life",
+  "companyProfile": {
+    "about": "Leading private life insurance company in India offering a wide range of life insurance, pension, savings, and protection plans through bancassurance and agency channels.",
+    "sector": "Financial Services",
+    "headquarters": "Mumbai, Maharashtra, India",
+    "founded": "2000",
+    "website": "https://www.hdfclife.com"
+  },
+  "currentPrice": {
+    "NSE": 720.00
+  },
+  "percentChange": 0.85,
+  "yearHigh": 780.00,
+  "yearLow": 520.00,
+  "stockTechnicalData": {
+    "dma50": 700.00,
+    "dma200": 650.00,
+    "shortTermTrend": "Bullish",
+    "longTermTrend": "Bullish",
+    "overallRating": "Buy",
+    "riskMeter": 2.9
+  },
+  "financials": {
+    "incomeStatement": {
+      "yearly": [
+        {
+          "period": "FY 2025",
+          "revenue": 85000,
+          "netProfit": 2100,
+          "eps": 24.50
+        }
+      ]
+    },
+    "balanceSheet": {
+      "yearly": [
+        {
+          "totalAssets": 320000,
+          "totalLiabilities": 300000,
+          "cashAndEquivalents": 12000,
+          "longTermDebt": 5000,
+          "totalEquity": 20000
+        }
+      ]
+    },
+    "cashFlow": {
+      "yearly": [
+        {
+          "operatingCashFlow": 18000,
+          "capitalExpenditure": 2500,
+          "freeCashFlow": 15500
+        }
+      ]
+    },
+    "keyRatios": {
+      "roe": 19.80,
+      "roce": 20.50,
+      "debtToEquity": 0.25,
+      "interestCoverage": 8.50
+    }
+  },
+  "keyMetrics": {
+    "marketCap": 155000
+  },
+  "meta": {
+    "currency": "INR",
+    "unit": "crore",
+    "source": "grok-seed",
+    "fetchedAt": "2026-02-05"
+  }
+},
+{
+  "tickerId": "HEROMOTOCO",
+  "companyName": "Hero MotoCorp Limited",
+  "industry": "Automobiles - Two Wheelers",
+  "companyProfile": {
+    "about": "India's largest two-wheeler manufacturer, producing motorcycles, scooters, and electric vehicles with strong domestic and international market presence.",
+    "sector": "Automobile",
+    "headquarters": "New Delhi, India",
+    "founded": "1984",
+    "website": "https://www.heromotocorp.com"
+  },
+  "currentPrice": {
+    "NSE": 4800.00
+  },
+  "percentChange": 1.10,
+  "yearHigh": 5200.00,
+  "yearLow": 3800.00,
+  "stockTechnicalData": {
+    "dma50": 4700.00,
+    "dma200": 4500.00,
+    "shortTermTrend": "Bullish",
+    "longTermTrend": "Bullish",
+    "overallRating": "Buy",
+    "riskMeter": 2.8
+  },
+  "financials": {
+    "incomeStatement": {
+      "yearly": [
+        {
+          "period": "FY 2025",
+          "revenue": 38000,
+          "netProfit": 4200,
+          "eps": 210.00
+        }
+      ]
+    },
+    "balanceSheet": {
+      "yearly": [
+        {
+          "totalAssets": 22000,
+          "totalLiabilities": 5200,
+          "cashAndEquivalents": 6800,
+          "longTermDebt": 800,
+          "totalEquity": 16800
+        }
+      ]
+    },
+    "cashFlow": {
+      "yearly": [
+        {
+          "operatingCashFlow": 5200,
+          "capitalExpenditure": 1800,
+          "freeCashFlow": 3400
+        }
+      ]
+    },
+    "keyRatios": {
+      "roe": 22.50,
+      "roce": 26.80,
+      "debtToEquity": 0.05,
+      "interestCoverage": 75.00
+    }
+  },
+  "keyMetrics": {
+    "marketCap": 96000
+  },
+  "meta": {
+    "currency": "INR",
+    "unit": "crore",
+    "source": "grok-seed",
+    "fetchedAt": "2026-02-05"
+  }
+},
+{
+  "tickerId": "HINDALCO",
+  "companyName": "Hindalco Industries Limited",
+  "industry": "Metals - Aluminium & Copper",
+  "companyProfile": {
+    "about": "Leading Indian aluminium and copper producer with integrated operations in mining, refining, smelting, and downstream products; owns Novelis globally.",
+    "sector": "Metals & Mining",
+    "headquarters": "Mumbai, Maharashtra, India",
+    "founded": "1958",
+    "website": "https://www.hindalco.com"
+  },
+  "currentPrice": {
+    "NSE": 680.00
+  },
+  "percentChange": 1.25,
+  "yearHigh": 750.00,
+  "yearLow": 520.00,
+  "stockTechnicalData": {
+    "dma50": 660.00,
+    "dma200": 620.00,
+    "shortTermTrend": "Bullish",
+    "longTermTrend": "Bullish",
+    "overallRating": "Buy",
+    "riskMeter": 3.1
+  },
+  "financials": {
+    "incomeStatement": {
+      "yearly": [
+        {
+          "period": "FY 2025",
+          "revenue": 225000,
+          "netProfit": 10500,
+          "eps": 47.00
+        }
+      ]
+    },
+    "balanceSheet": {
+      "yearly": [
+        {
+          "totalAssets": 220000,
+          "totalLiabilities": 95000,
+          "cashAndEquivalents": 18000,
+          "longTermDebt": 42000,
+          "totalEquity": 125000
+        }
+      ]
+    },
+    "cashFlow": {
+      "yearly": [
+        {
+          "operatingCashFlow": 22000,
+          "capitalExpenditure": 12000,
+          "freeCashFlow": 10000
+        }
+      ]
+    },
+    "keyRatios": {
+      "roe": 19.80,
+      "roce": 18.90,
+      "debtToEquity": 0.34,
+      "interestCoverage": 7.20
+    }
+  },
+  "keyMetrics": {
+    "marketCap": 152000
+  },
+  "meta": {
+    "currency": "INR",
+    "unit": "crore",
+    "source": "grok-seed",
+    "fetchedAt": "2026-02-05"
+  }
+},
+{
+  "tickerId": "HINDUNILVR",
+  "companyName": "Hindustan Unilever Limited",
+  "industry": "FMCG - Personal & Household Care",
+  "companyProfile": {
+    "about": "India's leading fast-moving consumer goods company with a portfolio of iconic brands in foods, home care, beauty, and personal care.",
+    "sector": "Consumer Goods",
+    "headquarters": "Mumbai, Maharashtra, India",
+    "founded": "1933",
+    "website": "https://www.hul.co.in"
+  },
+  "currentPrice": {
+    "NSE": 2650.00
+  },
+  "percentChange": 0.80,
+  "yearHigh": 2850.00,
+  "yearLow": 2350.00,
+  "stockTechnicalData": {
+    "dma50": 2600.00,
+    "dma200": 2500.00,
+    "shortTermTrend": "Bullish",
+    "longTermTrend": "Bullish",
+    "overallRating": "Buy",
+    "riskMeter": 2.4
+  },
+  "financials": {
+    "incomeStatement": {
+      "yearly": [
+        {
+          "period": "FY 2025",
+          "revenue": 62000,
+          "netProfit": 10500,
+          "eps": 44.50
+        }
+      ]
+    },
+    "balanceSheet": {
+      "yearly": [
+        {
+          "totalAssets": 32000,
+          "totalLiabilities": 9500,
+          "cashAndEquivalents": 8500,
+          "longTermDebt": 1200,
+          "totalEquity": 22500
+        }
+      ]
+    },
+    "cashFlow": {
+      "yearly": [
+        {
+          "operatingCashFlow": 12000,
+          "capitalExpenditure": 2800,
+          "freeCashFlow": 9200
+        }
+      ]
+    },
+    "keyRatios": {
+      "roe": 28.40,
+      "roce": 35.20,
+      "debtToEquity": 0.05,
+      "interestCoverage": 95.00
+    }
+  },
+  "keyMetrics": {
+    "marketCap": 620000
+  },
+  "meta": {
+    "currency": "INR",
+    "unit": "crore",
+    "source": "grok-seed",
+    "fetchedAt": "2026-02-05"
+  }
+},
+{
+  "tickerId": "HDFC",
+  "companyName": "Housing Development Finance Corporation Limited",
+  "industry": "Housing Finance - NBFC",
+  "companyProfile": {
+    "about": "India's leading housing finance institution providing long-term loans for residential and commercial properties, along with other financial products and services.",
+    "sector": "Financial Services",
+    "headquarters": "Mumbai, Maharashtra, India",
+    "founded": "1977",
+    "website": "https://www.hdfc.com"
+  },
+  "currentPrice": {
+    "NSE": 2850.00
+  },
+  "percentChange": 1.00,
+  "yearHigh": 3100.00,
+  "yearLow": 2400.00,
+  "stockTechnicalData": {
+    "dma50": 2780.00,
+    "dma200": 2650.00,
+    "shortTermTrend": "Bullish",
+    "longTermTrend": "Bullish",
+    "overallRating": "Buy",
+    "riskMeter": 2.9
+  },
+  "financials": {
+    "incomeStatement": {
+      "yearly": [
+        {
+          "period": "FY 2025",
+          "revenue": 68000,
+          "netProfit": 16500,
+          "eps": 95.00
+        }
+      ]
+    },
+    "balanceSheet": {
+      "yearly": [
+        {
+          "totalAssets": 950000,
+          "totalLiabilities": 850000,
+          "cashAndEquivalents": 28000,
+          "longTermDebt": 700000,
+          "totalEquity": 100000
+        }
+      ]
+    },
+    "cashFlow": {
+      "yearly": [
+        {
+          "operatingCashFlow": 32000,
+          "capitalExpenditure": 4500,
+          "freeCashFlow": 27500
+        }
+      ]
+    },
+    "keyRatios": {
+      "roe": 19.50,
+      "roce": 18.80,
+      "debtToEquity": 0.45,
+      "interestCoverage": 6.20
+    }
+  },
+  "keyMetrics": {
+    "marketCap": 495000
+  },
+  "meta": {
+    "currency": "INR",
+    "unit": "crore",
+    "source": "grok-seed",
+    "fetchedAt": "2026-02-05"
+  }
+},
+{
+  "tickerId": "ICICIBANK",
+  "companyName": "ICICI Bank Limited",
+  "industry": "Banking - Private Sector",
+  "companyProfile": {
+    "about": "One of India's largest private sector banks offering retail, corporate, and investment banking services along with digital and international banking solutions.",
+    "sector": "Financial Services",
+    "headquarters": "Mumbai, Maharashtra, India",
+    "founded": "1994",
+    "website": "https://www.icicibank.com"
+  },
+  "currentPrice": {
+    "NSE": 1250.00
+  },
+  "percentChange": 1.05,
+  "yearHigh": 1350.00,
+  "yearLow": 980.00,
+  "stockTechnicalData": {
+    "dma50": 1220.00,
+    "dma200": 1150.00,
+    "shortTermTrend": "Bullish",
+    "longTermTrend": "Bullish",
+    "overallRating": "Buy",
+    "riskMeter": 2.9
+  },
+  "financials": {
+    "incomeStatement": {
+      "yearly": [
+        {
+          "period": "FY 2025",
+          "revenue": 180000,
+          "netProfit": 42000,
+          "eps": 58.50
+        }
+      ]
+    },
+    "balanceSheet": {
+      "yearly": [
+        {
+          "totalAssets": 2200000,
+          "totalLiabilities": 1980000,
+          "cashAndEquivalents": 150000,
+          "longTermDebt": 180000,
+          "totalEquity": 220000
+        }
+      ]
+    },
+    "cashFlow": {
+      "yearly": [
+        {
+          "operatingCashFlow": 85000,
+          "capitalExpenditure": 12000,
+          "freeCashFlow": 73000
+        }
+      ]
+    },
+    "keyRatios": {
+      "roe": 19.20,
+      "roce": 19.80,
+      "debtToEquity": 0.45,
+      "interestCoverage": 6.80
+    }
+  },
+  "keyMetrics": {
+    "marketCap": 900000
+  },
+  "meta": {
+    "currency": "INR",
+    "unit": "crore",
+    "source": "grok-seed",
+    "fetchedAt": "2026-02-05"
+  }
+},
+{
+  "tickerId": "ITC",
+  "companyName": "ITC Limited",
+  "industry": "FMCG - Diversified",
+  "companyProfile": {
+    "about": "Leading Indian conglomerate with major presence in cigarettes, FMCG foods, hotels, paperboards & packaging, and agri-business.",
+    "sector": "Consumer Goods",
+    "headquarters": "Kolkata, West Bengal, India",
+    "founded": "1910",
+    "website": "https://www.itcportal.com"
+  },
+  "currentPrice": {
+    "NSE": 480.00
+  },
+  "percentChange": 0.75,
+  "yearHigh": 520.00,
+  "yearLow": 410.00,
+  "stockTechnicalData": {
+    "dma50": 470.00,
+    "dma200": 455.00,
+    "shortTermTrend": "Bullish",
+    "longTermTrend": "Bullish",
+    "overallRating": "Buy",
+    "riskMeter": 2.5
+  },
+  "financials": {
+    "incomeStatement": {
+      "yearly": [
+        {
+          "period": "FY 2025",
+          "revenue": 76000,
+          "netProfit": 20000,
+          "eps": 16.20
+        }
+      ]
+    },
+    "balanceSheet": {
+      "yearly": [
+        {
+          "totalAssets": 95000,
+          "totalLiabilities": 22000,
+          "cashAndEquivalents": 18000,
+          "longTermDebt": 1000,
+          "totalEquity": 73000
+        }
+      ]
+    },
+    "cashFlow": {
+      "yearly": [
+        {
+          "operatingCashFlow": 22000,
+          "capitalExpenditure": 3500,
+          "freeCashFlow": 18500
+        }
+      ]
+    },
+    "keyRatios": {
+      "roe": 28.60,
+      "roce": 34.50,
+      "debtToEquity": 0.01,
+      "interestCoverage": 110.00
+    }
+  },
+  "keyMetrics": {
+    "marketCap": 600000
+  },
+  "meta": {
+    "currency": "INR",
+    "unit": "crore",
+    "source": "grok-seed",
+    "fetchedAt": "2026-02-05"
+  }
+},
+{
+  "tickerId": "INDUSINDBK",
+  "companyName": "IndusInd Bank Limited",
+  "industry": "Banking - Private Sector",
+  "companyProfile": {
+    "about": "Leading private sector bank in India focused on retail banking, corporate banking, vehicle finance, and digital banking services.",
+    "sector": "Financial Services",
+    "headquarters": "Mumbai, Maharashtra, India",
+    "founded": "1994",
+    "website": "https://www.indusind.com"
+  },
+  "currentPrice": {
+    "NSE": 1450.00
+  },
+  "percentChange": 1.15,
+  "yearHigh": 1580.00,
+  "yearLow": 1200.00,
+  "stockTechnicalData": {
+    "dma50": 1410.00,
+    "dma200": 1320.00,
+    "shortTermTrend": "Bullish",
+    "longTermTrend": "Bullish",
+    "overallRating": "Buy",
+    "riskMeter": 3.0
+  },
+  "financials": {
+    "incomeStatement": {
+      "yearly": [
+        {
+          "period": "FY 2025",
+          "revenue": 62000,
+          "netProfit": 9500,
+          "eps": 122.00
+        }
+      ]
+    },
+    "balanceSheet": {
+      "yearly": [
+        {
+          "totalAssets": 580000,
+          "totalLiabilities": 520000,
+          "cashAndEquivalents": 45000,
+          "longTermDebt": 80000,
+          "totalEquity": 60000
+        }
+      ]
+    },
+    "cashFlow": {
+      "yearly": [
+        {
+          "operatingCashFlow": 22000,
+          "capitalExpenditure": 4000,
+          "freeCashFlow": 18000
+        }
+      ]
+    },
+    "keyRatios": {
+      "roe": 18.50,
+      "roce": 19.20,
+      "debtToEquity": 0.42,
+      "interestCoverage": 6.80
+    }
+  },
+  "keyMetrics": {
+    "marketCap": 113000
+  },
+  "meta": {
+    "currency": "INR",
+    "unit": "crore",
+    "source": "grok-seed",
+    "fetchedAt": "2026-02-05"
+  }
+},
+{
+  "tickerId": "INFY",
+  "companyName": "Infosys Limited",
+  "industry": "IT Services & Consulting",
+  "companyProfile": {
+    "about": "Global leader in next-generation digital services and consulting, delivering end-to-end business solutions using AI, cloud, and digital technologies.",
+    "sector": "Technology",
+    "headquarters": "Bengaluru, Karnataka, India",
+    "founded": "1981",
+    "website": "https://www.infosys.com"
+  },
+  "currentPrice": {
+    "NSE": 1850.00
+  },
+  "percentChange": 0.90,
+  "yearHigh": 2000.00,
+  "yearLow": 1500.00,
+  "stockTechnicalData": {
+    "dma50": 1800.00,
+    "dma200": 1680.00,
+    "shortTermTrend": "Bullish",
+    "longTermTrend": "Bullish",
+    "overallRating": "Buy",
+    "riskMeter": 2.6
+  },
+  "financials": {
+    "incomeStatement": {
+      "yearly": [
+        {
+          "period": "FY 2025",
+          "revenue": 158000,
+          "netProfit": 26000,
+          "eps": 63.50
+        }
+      ]
+    },
+    "balanceSheet": {
+      "yearly": [
+        {
+          "totalAssets": 85000,
+          "totalLiabilities": 28000,
+          "cashAndEquivalents": 22000,
+          "longTermDebt": 3000,
+          "totalEquity": 57000
+        }
+      ]
+    },
+    "cashFlow": {
+      "yearly": [
+        {
+          "operatingCashFlow": 32000,
+          "capitalExpenditure": 6000,
+          "freeCashFlow": 26000
+        }
+      ]
+    },
+    "keyRatios": {
+      "roe": 24.50,
+      "roce": 29.80,
+      "debtToEquity": 0.05,
+      "interestCoverage": 95.00
+    }
+  },
+  "keyMetrics": {
+    "marketCap": 770000
+  },
+  "meta": {
+    "currency": "INR",
+    "unit": "crore",
+    "source": "grok-seed",
+    "fetchedAt": "2026-02-05"
+  }
+},
+{
+  "tickerId": "JSWSTEEL",
+  "companyName": "JSW Steel Limited",
+  "industry": "Metals - Steel",
+  "companyProfile": {
+    "about": "One of India's leading integrated steel producers with operations in iron ore mining, steel manufacturing, and value-added products across multiple locations.",
+    "sector": "Metals & Mining",
+    "headquarters": "Mumbai, Maharashtra, India",
+    "founded": "1982",
+    "website": "https://www.jsw.in/steel"
+  },
+  "currentPrice": {
+    "NSE": 950.00
+  },
+  "percentChange": 1.30,
+  "yearHigh": 1050.00,
+  "yearLow": 750.00,
+  "stockTechnicalData": {
+    "dma50": 920.00,
+    "dma200": 870.00,
+    "shortTermTrend": "Bullish",
+    "longTermTrend": "Bullish",
+    "overallRating": "Buy",
+    "riskMeter": 3.2
+  },
+  "financials": {
+    "incomeStatement": {
+      "yearly": [
+        {
+          "period": "FY 2025",
+          "revenue": 180000,
+          "netProfit": 9500,
+          "eps": 39.00
+        }
+      ]
+    },
+    "balanceSheet": {
+      "yearly": [
+        {
+          "totalAssets": 180000,
+          "totalLiabilities": 85000,
+          "cashAndEquivalents": 12000,
+          "longTermDebt": 45000,
+          "totalEquity": 95000
+        }
+      ]
+    },
+    "cashFlow": {
+      "yearly": [
+        {
+          "operatingCashFlow": 22000,
+          "capitalExpenditure": 14000,
+          "freeCashFlow": 8000
+        }
+      ]
+    },
+    "keyRatios": {
+      "roe": 19.20,
+      "roce": 18.50,
+      "debtToEquity": 0.48,
+      "interestCoverage": 5.80
+    }
+  },
+  "keyMetrics": {
+    "marketCap": 232000
+  },
+  "meta": {
+    "currency": "INR",
+    "unit": "crore",
+    "source": "grok-seed",
+    "fetchedAt": "2026-02-05"
+  }
+},
+{
+  "tickerId": "KOTAKBANK",
+  "companyName": "Kotak Mahindra Bank Limited",
+  "industry": "Banking - Private Sector",
+  "companyProfile": {
+    "about": "One of India's leading private sector banks offering retail banking, corporate banking, investment banking, wealth management, and insurance services.",
+    "sector": "Financial Services",
+    "headquarters": "Mumbai, Maharashtra, India",
+    "founded": "1985",
+    "website": "https://www.kotak.com"
+  },
+  "currentPrice": {
+    "NSE": 1780.00
+  },
+  "percentChange": 0.90,
+  "yearHigh": 1950.00,
+  "yearLow": 1500.00,
+  "stockTechnicalData": {
+    "dma50": 1740.00,
+    "dma200": 1650.00,
+    "shortTermTrend": "Bullish",
+    "longTermTrend": "Bullish",
+    "overallRating": "Buy",
+    "riskMeter": 2.8
+  },
+  "financials": {
+    "incomeStatement": {
+      "yearly": [
+        {
+          "period": "FY 2025",
+          "revenue": 92000,
+          "netProfit": 22000,
+          "eps": 110.50
+        }
+      ]
+    },
+    "balanceSheet": {
+      "yearly": [
+        {
+          "totalAssets": 520000,
+          "totalLiabilities": 470000,
+          "cashAndEquivalents": 45000,
+          "longTermDebt": 60000,
+          "totalEquity": 50000
+        }
+      ]
+    },
+    "cashFlow": {
+      "yearly": [
+        {
+          "operatingCashFlow": 38000,
+          "capitalExpenditure": 6000,
+          "freeCashFlow": 32000
+        }
+      ]
+    },
+    "keyRatios": {
+      "roe": 19.50,
+      "roce": 20.10,
+      "debtToEquity": 0.40,
+      "interestCoverage": 7.20
+    }
+  },
+  "keyMetrics": {
+    "marketCap": 355000
+  },
+  "meta": {
+    "currency": "INR",
+    "unit": "crore",
+    "source": "grok-seed",
+    "fetchedAt": "2026-02-05"
+  }
+},
+{
+  "tickerId": "LT",
+  "companyName": "Larsen & Toubro Limited",
+  "industry": "Engineering & Construction",
+  "companyProfile": {
+    "about": "India's largest engineering and construction conglomerate with operations in infrastructure, power, hydrocarbons, defence, and heavy engineering.",
+    "sector": "Infrastructure & Engineering",
+    "headquarters": "Mumbai, Maharashtra, India",
+    "founded": "1938",
+    "website": "https://www.larsentoubro.com"
+  },
+  "currentPrice": {
+    "NSE": 3650.00
+  },
+  "percentChange": 1.15,
+  "yearHigh": 3950.00,
+  "yearLow": 2800.00,
+  "stockTechnicalData": {
+    "dma50": 3550.00,
+    "dma200": 3300.00,
+    "shortTermTrend": "Bullish",
+    "longTermTrend": "Bullish",
+    "overallRating": "Buy",
+    "riskMeter": 3.0
+  },
+  "financials": {
+    "incomeStatement": {
+      "yearly": [
+        {
+          "period": "FY 2025",
+          "revenue": 255000,
+          "netProfit": 17500,
+          "eps": 125.00
+        }
+      ]
+    },
+    "balanceSheet": {
+      "yearly": [
+        {
+          "totalAssets": 280000,
+          "totalLiabilities": 180000,
+          "cashAndEquivalents": 28000,
+          "longTermDebt": 65000,
+          "totalEquity": 100000
+        }
+      ]
+    },
+    "cashFlow": {
+      "yearly": [
+        {
+          "operatingCashFlow": 32000,
+          "capitalExpenditure": 18000,
+          "freeCashFlow": 14000
+        }
+      ]
+    },
+    "keyRatios": {
+      "roe": 19.80,
+      "roce": 20.50,
+      "debtToEquity": 0.45,
+      "interestCoverage": 6.50
+    }
+  },
+  "keyMetrics": {
+    "marketCap": 510000
+  },
+  "meta": {
+    "currency": "INR",
+    "unit": "crore",
+    "source": "grok-seed",
+    "fetchedAt": "2026-02-05"
+  }
+},
+{
+  "tickerId": "M&M",
+  "companyName": "Mahindra & Mahindra Limited",
+  "industry": "Automobiles - Passenger Vehicles & Tractors",
+  "companyProfile": {
+    "about": "Indian multinational automotive manufacturing company producing SUVs, tractors, commercial vehicles, and offering mobility and farm solutions.",
+    "sector": "Automobile",
+    "headquarters": "Mumbai, Maharashtra, India",
+    "founded": "1945",
+    "website": "https://www.mahindra.com"
+  },
+  "currentPrice": {
+    "NSE": 2850.00
+  },
+  "percentChange": 0.45,
+  "yearHigh": 3250.00,
+  "yearLow": 2250.00,
+  "stockTechnicalData": {
+    "dma50": 2820.00,
+    "dma200": 2680.00,
+    "shortTermTrend": "Neutral",
+    "longTermTrend": "Neutral",
+    "overallRating": "Hold",
+    "riskMeter": 4.2
+  },
+  "financials": {
+    "incomeStatement": {
+      "yearly": [
+        {
+          "period": "FY 2025",
+          "revenue": 125000,
+          "netProfit": 9200,
+          "eps": 74.00
+        }
+      ]
+    },
+    "balanceSheet": {
+      "yearly": [
+        {
+          "totalAssets": 145000,
+          "totalLiabilities": 78000,
+          "cashAndEquivalents": 9800,
+          "longTermDebt": 32000,
+          "totalEquity": 67000
+        }
+      ]
+    },
+    "cashFlow": {
+      "yearly": [
+        {
+          "operatingCashFlow": 11800,
+          "capitalExpenditure": 9200,
+          "freeCashFlow": 2600
+        }
+      ]
+    },
+    "keyRatios": {
+      "roe": 13.80,
+      "roce": 14.20,
+      "debtToEquity": 0.95,
+      "interestCoverage": 3.80
+    }
+  },
+  "keyMetrics": {
+    "marketCap": 354000
+  },
+  "meta": {
+    "currency": "INR",
+    "unit": "crore",
+    "source": "grok-seed",
+    "fetchedAt": "2026-02-05"
+  }
+},
+{
+  "tickerId": "MARUTI",
+  "companyName": "Maruti Suzuki India Limited",
+  "industry": "Automobiles - Passenger Vehicles",
+  "companyProfile": {
+    "about": "India's largest passenger car manufacturer offering a wide range of hatchbacks, sedans, SUVs, and MPVs with strong domestic market share.",
+    "sector": "Automobile",
+    "headquarters": "New Delhi, India",
+    "founded": "1981",
+    "website": "https://www.marutisuzuki.com"
+  },
+  "currentPrice": {
+    "NSE": 11800.00
+  },
+  "percentChange": 0.35,
+  "yearHigh": 13200.00,
+  "yearLow": 9500.00,
+  "stockTechnicalData": {
+    "dma50": 11950.00,
+    "dma200": 11500.00,
+    "shortTermTrend": "Neutral",
+    "longTermTrend": "Neutral",
+    "overallRating": "Hold",
+    "riskMeter": 4.1
+  },
+  "financials": {
+    "incomeStatement": {
+      "yearly": [
+        {
+          "period": "FY 2025",
+          "revenue": 145000,
+          "netProfit": 12500,
+          "eps": 415.00
+        }
+      ]
+    },
+    "balanceSheet": {
+      "yearly": [
+        {
+          "totalAssets": 98000,
+          "totalLiabilities": 42000,
+          "cashAndEquivalents": 12000,
+          "longTermDebt": 18000,
+          "totalEquity": 56000
+        }
+      ]
+    },
+    "cashFlow": {
+      "yearly": [
+        {
+          "operatingCashFlow": 14500,
+          "capitalExpenditure": 11000,
+          "freeCashFlow": 3500
+        }
+      ]
+    },
+    "keyRatios": {
+      "roe": 14.20,
+      "roce": 15.50,
+      "debtToEquity": 0.85,
+      "interestCoverage": 4.20
+    }
+  },
+  "keyMetrics": {
+    "marketCap": 360000
+  },
+  "meta": {
+    "currency": "INR",
+    "unit": "crore",
+    "source": "grok-seed",
+    "fetchedAt": "2026-02-05"
+  }
+},
+{
+  "tickerId": "NTPC",
+  "companyName": "NTPC Limited",
+  "industry": "Power Generation - Thermal",
+  "companyProfile": {
+    "about": "India's largest power utility company, primarily engaged in generation and sale of electricity through coal-based, gas-based, hydro, and renewable energy plants.",
+    "sector": "Power",
+    "headquarters": "New Delhi, India",
+    "founded": "1975",
+    "website": "https://www.ntpc.co.in"
+  },
+  "currentPrice": {
+    "NSE": 380.00
+  },
+  "percentChange": 0.40,
+  "yearHigh": 420.00,
+  "yearLow": 320.00,
+  "stockTechnicalData": {
+    "dma50": 385.00,
+    "dma200": 370.00,
+    "shortTermTrend": "Neutral",
+    "longTermTrend": "Neutral",
+    "overallRating": "Hold",
+    "riskMeter": 4.3
+  },
+  "financials": {
+    "incomeStatement": {
+      "yearly": [
+        {
+          "period": "FY 2025",
+          "revenue": 185000,
+          "netProfit": 21000,
+          "eps": 21.50
+        }
+      ]
+    },
+    "balanceSheet": {
+      "yearly": [
+        {
+          "totalAssets": 420000,
+          "totalLiabilities": 280000,
+          "cashAndEquivalents": 18000,
+          "longTermDebt": 140000,
+          "totalEquity": 140000
+        }
+      ]
+    },
+    "cashFlow": {
+      "yearly": [
+        {
+          "operatingCashFlow": 38000,
+          "capitalExpenditure": 32000,
+          "freeCashFlow": 6000
+        }
+      ]
+    },
+    "keyRatios": {
+      "roe": 13.50,
+      "roce": 11.80,
+      "debtToEquity": 1.00,
+      "interestCoverage": 3.20
+    }
+  },
+  "keyMetrics": {
+    "marketCap": 370000
+  },
+  "meta": {
+    "currency": "INR",
+    "unit": "crore",
+    "source": "grok-seed",
+    "fetchedAt": "2026-02-05"
+  }
+},
+{
+  "tickerId": "NESTLEIND",
+  "companyName": "Nestle India Limited",
+  "industry": "FMCG - Food Processing",
+  "companyProfile": {
+    "about": "Indian subsidiary of Nestle S.A., manufacturing and selling popular food and beverage products including Maggi, Nescafe, KitKat, and infant nutrition.",
+    "sector": "Consumer Goods",
+    "headquarters": "Gurgaon, Haryana, India",
+    "founded": "1959",
+    "website": "https://www.nestle.in"
+  },
+  "currentPrice": {
+    "NSE": 2500.00
+  },
+  "percentChange": 0.30,
+  "yearHigh": 2800.00,
+  "yearLow": 2200.00,
+  "stockTechnicalData": {
+    "dma50": 2520.00,
+    "dma200": 2480.00,
+    "shortTermTrend": "Neutral",
+    "longTermTrend": "Neutral",
+    "overallRating": "Hold",
+    "riskMeter": 3.8
+  },
+  "financials": {
+    "incomeStatement": {
+      "yearly": [
+        {
+          "period": "FY 2025",
+          "revenue": 22000,
+          "netProfit": 2800,
+          "eps": 29.00
+        }
+      ]
+    },
+    "balanceSheet": {
+      "yearly": [
+        {
+          "totalAssets": 12000,
+          "totalLiabilities": 6200,
+          "cashAndEquivalents": 1800,
+          "longTermDebt": 2200,
+          "totalEquity": 5800
+        }
+      ]
+    },
+    "cashFlow": {
+      "yearly": [
+        {
+          "operatingCashFlow": 3500,
+          "capitalExpenditure": 2200,
+          "freeCashFlow": 1300
+        }
+      ]
+    },
+    "keyRatios": {
+      "roe": 14.80,
+      "roce": 15.20,
+      "debtToEquity": 0.90,
+      "interestCoverage": 4.10
+    }
+  },
+  "keyMetrics": {
+    "marketCap": 240000
+  },
+  "meta": {
+    "currency": "INR",
+    "unit": "crore",
+    "source": "grok-seed",
+    "fetchedAt": "2026-02-05"
+  }
+},
+{
+  "tickerId": "ONGC",
+  "companyName": "Oil & Natural Gas Corporation Limited",
+  "industry": "Oil & Gas - Exploration & Production",
+  "companyProfile": {
+    "about": "India's largest government-owned oil and gas exploration and production company, engaged in discovering, producing, and selling crude oil, natural gas, and value-added products.",
+    "sector": "Energy",
+    "headquarters": "New Delhi, India",
+    "founded": "1956",
+    "website": "https://www.ongcindia.com"
+  },
+  "currentPrice": {
+    "NSE": 280.00
+  },
+  "percentChange": 0.50,
+  "yearHigh": 320.00,
+  "yearLow": 240.00,
+  "stockTechnicalData": {
+    "dma50": 285.00,
+    "dma200": 275.00,
+    "shortTermTrend": "Neutral",
+    "longTermTrend": "Neutral",
+    "overallRating": "Hold",
+    "riskMeter": 4.4
+  },
+  "financials": {
+    "incomeStatement": {
+      "yearly": [
+        {
+          "period": "FY 2025",
+          "revenue": 320000,
+          "netProfit": 38000,
+          "eps": 30.20
+        }
+      ]
+    },
+    "balanceSheet": {
+      "yearly": [
+        {
+          "totalAssets": 480000,
+          "totalLiabilities": 260000,
+          "cashAndEquivalents": 22000,
+          "longTermDebt": 120000,
+          "totalEquity": 220000
+        }
+      ]
+    },
+    "cashFlow": {
+      "yearly": [
+        {
+          "operatingCashFlow": 62000,
+          "capitalExpenditure": 52000,
+          "freeCashFlow": 10000
+        }
+      ]
+    },
+    "keyRatios": {
+      "roe": 12.80,
+      "roce": 11.50,
+      "debtToEquity": 0.95,
+      "interestCoverage": 3.50
+    }
+  },
+  "keyMetrics": {
+    "marketCap": 352000
+  },
+  "meta": {
+    "currency": "INR",
+    "unit": "crore",
+    "source": "grok-seed",
+    "fetchedAt": "2026-02-05"
+  }
+},
+{
+  "tickerId": "POWERGRID",
+  "companyName": "Power Grid Corporation of India Limited",
+  "industry": "Power Transmission",
+  "companyProfile": {
+    "about": "India's largest electric power transmission utility responsible for planning, developing, and operating the national power transmission network.",
+    "sector": "Power",
+    "headquarters": "Gurgaon, Haryana, India",
+    "founded": "1989",
+    "website": "https://www.powergrid.in"
+  },
+  "currentPrice": {
+    "NSE": 320.00
+  },
+  "percentChange": 0.25,
+  "yearHigh": 355.00,
+  "yearLow": 280.00,
+  "stockTechnicalData": {
+    "dma50": 325.00,
+    "dma200": 315.00,
+    "shortTermTrend": "Neutral",
+    "longTermTrend": "Neutral",
+    "overallRating": "Hold",
+    "riskMeter": 4.0
+  },
+  "financials": {
+    "incomeStatement": {
+      "yearly": [
+        {
+          "period": "FY 2025",
+          "revenue": 48000,
+          "netProfit": 15500,
+          "eps": 16.80
+        }
+      ]
+    },
+    "balanceSheet": {
+      "yearly": [
+        {
+          "totalAssets": 280000,
+          "totalLiabilities": 210000,
+          "cashAndEquivalents": 12000,
+          "longTermDebt": 160000,
+          "totalEquity": 70000
+        }
+      ]
+    },
+    "cashFlow": {
+      "yearly": [
+        {
+          "operatingCashFlow": 32000,
+          "capitalExpenditure": 28000,
+          "freeCashFlow": 4000
+        }
+      ]
+    },
+    "keyRatios": {
+      "roe": 14.50,
+      "roce": 11.20,
+      "debtToEquity": 1.10,
+      "interestCoverage": 3.10
+    }
+  },
+  "keyMetrics": {
+    "marketCap": 295000
+  },
+  "meta": {
+    "currency": "INR",
+    "unit": "crore",
+    "source": "grok-seed",
+    "fetchedAt": "2026-02-05"
+  }
+},
+{
+  "tickerId": "SBILIFE",
+  "companyName": "SBI Life Insurance Company Limited",
+  "industry": "Insurance - Life",
+  "companyProfile": {
+    "about": "Leading private life insurance company in India, offering a range of protection, savings, retirement, and health insurance products through bancassurance and agency channels.",
+    "sector": "Financial Services",
+    "headquarters": "Mumbai, Maharashtra, India",
+    "founded": "2001",
+    "website": "https://www.sbilife.co.in"
+  },
+  "currentPrice": {
+    "NSE": 1650.00
+  },
+  "percentChange": 0.40,
+  "yearHigh": 1850.00,
+  "yearLow": 1350.00,
+  "stockTechnicalData": {
+    "dma50": 1680.00,
+    "dma200": 1620.00,
+    "shortTermTrend": "Neutral",
+    "longTermTrend": "Neutral",
+    "overallRating": "Hold",
+    "riskMeter": 4.1
+  },
+  "financials": {
+    "incomeStatement": {
+      "yearly": [
+        {
+          "period": "FY 2025",
+          "revenue": 95000,
+          "netProfit": 2100,
+          "eps": 21.00
+        }
+      ]
+    },
+    "balanceSheet": {
+      "yearly": [
+        {
+          "totalAssets": 420000,
+          "totalLiabilities": 395000,
+          "cashAndEquivalents": 15000,
+          "longTermDebt": 8000,
+          "totalEquity": 25000
+        }
+      ]
+    },
+    "cashFlow": {
+      "yearly": [
+        {
+          "operatingCashFlow": 22000,
+          "capitalExpenditure": 3500,
+          "freeCashFlow": 18500
+        }
+      ]
+    },
+    "keyRatios": {
+      "roe": 13.50,
+      "roce": 12.80,
+      "debtToEquity": 0.80,
+      "interestCoverage": 3.90
+    }
+  },
+  "keyMetrics": {
+    "marketCap": 165000
+  },
+  "meta": {
+    "currency": "INR",
+    "unit": "crore",
+    "source": "grok-seed",
+    "fetchedAt": "2026-02-05"
+  }
+},
+{
+  "tickerId": "SBIN",
+  "companyName": "State Bank of India",
+  "industry": "Banking - Public Sector",
+  "companyProfile": {
+    "about": "India's largest public sector bank offering retail banking, corporate banking, treasury, and international banking services with a vast network of branches and ATMs.",
+    "sector": "Financial Services",
+    "headquarters": "Mumbai, Maharashtra, India",
+    "founded": "1806",
+    "website": "https://www.sbi.co.in"
+  },
+  "currentPrice": {
+    "NSE": 820.00
+  },
+  "percentChange": 0.35,
+  "yearHigh": 920.00,
+  "yearLow": 680.00,
+  "stockTechnicalData": {
+    "dma50": 835.00,
+    "dma200": 810.00,
+    "shortTermTrend": "Neutral",
+    "longTermTrend": "Neutral",
+    "overallRating": "Hold",
+    "riskMeter": 4.3
+  },
+  "financials": {
+    "incomeStatement": {
+      "yearly": [
+        {
+          "period": "FY 2025",
+          "revenue": 420000,
+          "netProfit": 62000,
+          "eps": 69.50
+        }
+      ]
+    },
+    "balanceSheet": {
+      "yearly": [
+        {
+          "totalAssets": 5800000,
+          "totalLiabilities": 5300000,
+          "cashAndEquivalents": 320000,
+          "longTermDebt": 400000,
+          "totalEquity": 500000
+        }
+      ]
+    },
+    "cashFlow": {
+      "yearly": [
+        {
+          "operatingCashFlow": 120000,
+          "capitalExpenditure": 18000,
+          "freeCashFlow": 102000
+        }
+      ]
+    },
+    "keyRatios": {
+      "roe": 13.20,
+      "roce": 11.80,
+      "debtToEquity": 0.95,
+      "interestCoverage": 3.40
+    }
+  },
+  "keyMetrics": {
+    "marketCap": 730000
+  },
+  "meta": {
+    "currency": "INR",
+    "unit": "crore",
+    "source": "grok-seed",
+    "fetchedAt": "2026-02-05"
+  }
+},
+{
+  "tickerId": "SUNPHARMA",
+  "companyName": "Sun Pharmaceutical Industries Limited",
+  "industry": "Pharmaceuticals",
+  "companyProfile": {
+    "about": "India's largest pharmaceutical company by revenue, specializing in generics, branded formulations, specialty products, and active pharmaceutical ingredients with global operations.",
+    "sector": "Healthcare",
+    "headquarters": "Mumbai, Maharashtra, India",
+    "founded": "1983",
+    "website": "https://www.sunpharma.com"
+  },
+  "currentPrice": {
+    "NSE": 1850.00
+  },
+  "percentChange": 0.40,
+  "yearHigh": 2050.00,
+  "yearLow": 1450.00,
+  "stockTechnicalData": {
+    "dma50": 1870.00,
+    "dma200": 1800.00,
+    "shortTermTrend": "Neutral",
+    "longTermTrend": "Neutral",
+    "overallRating": "Hold",
+    "riskMeter": 4.2
+  },
+  "financials": {
+    "incomeStatement": {
+      "yearly": [
+        {
+          "period": "FY 2025",
+          "revenue": 52000,
+          "netProfit": 9200,
+          "eps": 38.50
+        }
+      ]
+    },
+    "balanceSheet": {
+      "yearly": [
+        {
+          "totalAssets": 85000,
+          "totalLiabilities": 42000,
+          "cashAndEquivalents": 12000,
+          "longTermDebt": 22000,
+          "totalEquity": 43000
+        }
+      ]
+    },
+    "cashFlow": {
+      "yearly": [
+        {
+          "operatingCashFlow": 11000,
+          "capitalExpenditure": 8500,
+          "freeCashFlow": 2500
+        }
+      ]
+    },
+    "keyRatios": {
+      "roe": 13.80,
+      "roce": 14.50,
+      "debtToEquity": 0.90,
+      "interestCoverage": 4.10
+    }
+  },
+  "keyMetrics": {
+    "marketCap": 445000
+  },
+  "meta": {
+    "currency": "INR",
+    "unit": "crore",
+    "source": "grok-seed",
+    "fetchedAt": "2026-02-05"
+  }
+},
+{
+    "tickerId": "TCS",
+    "companyName": "Tata Consultancy Services Ltd",
+    "industry": "Information Technology",
+    "companyProfile": {
+        "about": "Tata Consultancy Services (TCS) is a leading global IT services, consulting, and business solutions organization. Part of the Tata group, it offers a consulting-led, cognitive powered, integrated portfolio of IT, business & technology services, and engineering.",
+        "sector": "Information Technology",
+        "headquarters": "Mumbai, Maharashtra",
+        "founded": "1968",
+        "website": "https://www.tcs.com"
+    },
+    "currentPrice": {
+        "NSE": 3750.25
+    },
+    "percentChange": -0.32,
+    "yearHigh": 4200.50,
+    "yearLow": 3200.75,
+    "stockTechnicalData": {
+        "dma50": 3680.40,
+        "dma200": 3725.80,
+        "shortTermTrend": "Neutral",
+        "longTermTrend": "Neutral",
+        "overallRating": "Hold",
+        "riskMeter": 3
+    },
+    "financials": {
+        "incomeStatement": {
+            "yearly": [
+                {
+                    "period": "FY 2025",
+                    "revenue": 215000,
+                    "netProfit": 45000,
+                    "eps": 122.5
+                }
+            ]
+        },
+        "balanceSheet": {
+            "yearly": [
+                {
+                    "totalAssets": 155000,
+                    "totalLiabilities": 42000,
+                    "cashAndEquivalents": 38000,
+                    "longTermDebt": 0,
+                    "totalEquity": 113000
+                }
+            ]
+        },
+        "cashFlow": {
+            "yearly": [
+                {
+                    "operatingCashFlow": 52000,
+                    "capitalExpenditure": -8500,
+                    "freeCashFlow": 43500
+                }
+            ]
+        },
+        "keyRatios": {
+            "roe": 39.8,
+            "roce": 42.5,
+            "debtToEquity": 0.0,
+            "interestCoverage": 0
+        }
+    },
+    "keyMetrics": {
+        "marketCap": 1370000
+    },
+    "meta": {
+        "currency": "INR",
+        "unit": "crore",
+        "source": "deepseek-seed",
+        "fetchedAt": "2026-02-05"
+    }
+},
+{
+    "tickerId": "TATACONSUM",
+    "companyName": "Tata Consumer Products Ltd",
+    "industry": "FMCG",
+    "companyProfile": {
+        "about": "Tata Consumer Products is a focused consumer products company in the foods and beverages sector, part of the Tata group. Its portfolio includes tea, coffee, water, salt, pulses, spices, and ready-to-cook and ready-to-eat offerings.",
+        "sector": "Consumer Staples",
+        "headquarters": "Mumbai, Maharashtra",
+        "founded": "1962",
+        "website": "https://www.tataconsumer.com"
+    },
+    "currentPrice": {
+        "NSE": 1125.60
+    },
+    "percentChange": 0.45,
+    "yearHigh": 1250.80,
+    "yearLow": 980.40,
+    "stockTechnicalData": {
+        "dma50": 1105.30,
+        "dma200": 1080.75,
+        "shortTermTrend": "Neutral",
+        "longTermTrend": "Neutral",
+        "overallRating": "Hold",
+        "riskMeter": 4
+    },
+    "financials": {
+        "incomeStatement": {
+            "yearly": [
+                {
+                    "period": "FY 2025",
+                    "revenue": 14500,
+                    "netProfit": 1450,
+                    "eps": 14.2
+                }
+            ]
+        },
+        "balanceSheet": {
+            "yearly": [
+                {
+                    "totalAssets": 11500,
+                    "totalLiabilities": 3800,
+                    "cashAndEquivalents": 1250,
+                    "longTermDebt": 850,
+                    "totalEquity": 7700
+                }
+            ]
+        },
+        "cashFlow": {
+            "yearly": [
+                {
+                    "operatingCashFlow": 1750,
+                    "capitalExpenditure": -420,
+                    "freeCashFlow": 1330
+                }
+            ]
+        },
+        "keyRatios": {
+            "roe": 18.8,
+            "roce": 20.5,
+            "debtToEquity": 0.11,
+            "interestCoverage": 12.5
+        }
+    },
+    "keyMetrics": {
+        "marketCap": 107000
+    },
+    "meta": {
+        "currency": "INR",
+        "unit": "crore",
+        "source": "deepseek-seed",
+        "fetchedAt": "2026-02-05"
+    }
+},
+{
+    "tickerId": "TATAMOTORS",
+    "companyName": "Tata Motors Ltd",
+    "industry": "Automobiles",
+    "companyProfile": {
+        "about": "Tata Motors is a leading global automobile manufacturer with a portfolio that includes a wide range of cars, SUVs, trucks, buses, and defense vehicles. Part of the Tata group, it is India's largest automobile company by revenue.",
+        "sector": "Automobile",
+        "headquarters": "Mumbai, Maharashtra",
+        "founded": "1945",
+        "website": "https://www.tatamotors.com"
+    },
+    "currentPrice": {
+        "NSE": 985.75
+    },
+    "percentChange": -1.20,
+    "yearHigh": 1100.50,
+    "yearLow": 850.25,
+    "stockTechnicalData": {
+        "dma50": 1005.30,
+        "dma200": 970.80,
+        "shortTermTrend": "Neutral",
+        "longTermTrend": "Neutral",
+        "overallRating": "Hold",
+        "riskMeter": 6
+    },
+    "financials": {
+        "incomeStatement": {
+            "yearly": [
+                {
+                    "period": "FY 2025",
+                    "revenue": 420000,
+                    "netProfit": 18500,
+                    "eps": 49.5
+                }
+            ]
+        },
+        "balanceSheet": {
+            "yearly": [
+                {
+                    "totalAssets": 340000,
+                    "totalLiabilities": 230000,
+                    "cashAndEquivalents": 22000,
+                    "longTermDebt": 65000,
+                    "totalEquity": 110000
+                }
+            ]
+        },
+        "cashFlow": {
+            "yearly": [
+                {
+                    "operatingCashFlow": 32500,
+                    "capitalExpenditure": -18500,
+                    "freeCashFlow": 14000
+                }
+            ]
+        },
+        "keyRatios": {
+            "roe": 16.8,
+            "roce": 14.2,
+            "debtToEquity": 0.59,
+            "interestCoverage": 4.8
+        }
+    },
+    "keyMetrics": {
+        "marketCap": 330000
+    },
+    "meta": {
+        "currency": "INR",
+        "unit": "crore",
+        "source": "deepseek-seed",
+        "fetchedAt": "2026-02-05"
+    }
+},
+{
+    "tickerId": "TATASTEEL",
+    "companyName": "Tata Steel Ltd",
+    "industry": "Metals",
+    "companyProfile": {
+        "about": "Tata Steel is a leading global steel company with operations in 26 countries. Part of the Tata group, it is among the top steel producers in the world, with a diversified portfolio and a strong presence across the entire steel value chain.",
+        "sector": "Materials",
+        "headquarters": "Mumbai, Maharashtra",
+        "founded": "1907",
+        "website": "https://www.tatasteel.com"
+    },
+    "currentPrice": {
+        "NSE": 165.20
+    },
+    "percentChange": -0.60,
+    "yearHigh": 185.50,
+    "yearLow": 140.80,
+    "stockTechnicalData": {
+        "dma50": 168.75,
+        "dma200": 162.30,
+        "shortTermTrend": "Neutral",
+        "longTermTrend": "Neutral",
+        "overallRating": "Hold",
+        "riskMeter": 7
+    },
+    "financials": {
+        "incomeStatement": {
+            "yearly": [
+                {
+                    "period": "FY 2025",
+                    "revenue": 245000,
+                    "netProfit": 12500,
+                    "eps": 10.8
+                }
+            ]
+        },
+        "balanceSheet": {
+            "yearly": [
+                {
+                    "totalAssets": 280000,
+                    "totalLiabilities": 180000,
+                    "cashAndEquivalents": 15000,
+                    "longTermDebt": 85000,
+                    "totalEquity": 100000
+                }
+            ]
+        },
+        "cashFlow": {
+            "yearly": [
+                {
+                    "operatingCashFlow": 28000,
+                    "capitalExpenditure": -18000,
+                    "freeCashFlow": 10000
+                }
+            ]
+        },
+        "keyRatios": {
+            "roe": 12.5,
+            "roce": 11.8,
+            "debtToEquity": 0.85,
+            "interestCoverage": 3.5
+        }
+    },
+    "keyMetrics": {
+        "marketCap": 205000
+    },
+    "meta": {
+        "currency": "INR",
+        "unit": "crore",
+        "source": "deepseek-seed",
+        "fetchedAt": "2026-02-05"
+    }
+},
+{
+    "tickerId": "TECHM",
+    "companyName": "Tech Mahindra Ltd",
+    "industry": "Information Technology",
+    "companyProfile": {
+        "about": "Tech Mahindra is a leading provider of digital transformation, consulting, and business re-engineering services and solutions. Part of the Mahindra Group, it serves clients across various industries including telecommunications, manufacturing, BFSI, and retail.",
+        "sector": "Information Technology",
+        "headquarters": "Pune, Maharashtra",
+        "founded": "1986",
+        "website": "https://www.techmahindra.com"
+    },
+    "currentPrice": {
+        "NSE": 1240.50
+    },
+    "percentChange": 0.72,
+    "yearHigh": 1400.80,
+    "yearLow": 1100.25,
+    "stockTechnicalData": {
+        "dma50": 1225.30,
+        "dma200": 1250.75,
+        "shortTermTrend": "Neutral",
+        "longTermTrend": "Neutral",
+        "overallRating": "Hold",
+        "riskMeter": 5
+    },
+    "financials": {
+        "incomeStatement": {
+            "yearly": [
+                {
+                    "period": "FY 2025",
+                    "revenue": 52000,
+                    "netProfit": 4800,
+                    "eps": 54.5
+                }
+            ]
+        },
+        "balanceSheet": {
+            "yearly": [
+                {
+                    "totalAssets": 45000,
+                    "totalLiabilities": 18000,
+                    "cashAndEquivalents": 8500,
+                    "longTermDebt": 2500,
+                    "totalEquity": 27000
+                }
+            ]
+        },
+        "cashFlow": {
+            "yearly": [
+                {
+                    "operatingCashFlow": 6500,
+                    "capitalExpenditure": -1200,
+                    "freeCashFlow": 5300
+                }
+            ]
+        },
+        "keyRatios": {
+            "roe": 17.8,
+            "roce": 19.2,
+            "debtToEquity": 0.09,
+            "interestCoverage": 15.2
+        }
+    },
+    "keyMetrics": {
+        "marketCap": 121000
+    },
+    "meta": {
+        "currency": "INR",
+        "unit": "crore",
+        "source": "deepseek-seed",
+        "fetchedAt": "2026-02-05"
+    }
+},{
+    "tickerId": "TITAN",
+    "companyName": "Titan Company Ltd",
+    "industry": "Consumer Discretionary",
+    "companyProfile": {
+        "about": "Titan Company is India's leading consumer lifestyle company and a joint venture between the Tata Group and the Tamil Nadu Industrial Development Corporation. Its business spans jewelry, watches, eyewear, and other lifestyle accessories.",
+        "sector": "Consumer Discretionary",
+        "headquarters": "Bengaluru, Karnataka",
+        "founded": "1984",
+        "website": "https://www.titancompany.in"
+    },
+    "currentPrice": {
+        "NSE": 3550.75
+    },
+    "percentChange": 1.25,
+    "yearHigh": 3800.50,
+    "yearLow": 3200.80,
+    "stockTechnicalData": {
+        "dma50": 3480.20,
+        "dma200": 3350.60,
+        "shortTermTrend": "Neutral",
+        "longTermTrend": "Neutral",
+        "overallRating": "Hold",
+        "riskMeter": 4
+    },
+    "financials": {
+        "incomeStatement": {
+            "yearly": [
+                {
+                    "period": "FY 2025",
+                    "revenue": 52000,
+                    "netProfit": 4200,
+                    "eps": 47.5
+                }
+            ]
+        },
+        "balanceSheet": {
+            "yearly": [
+                {
+                    "totalAssets": 38000,
+                    "totalLiabilities": 22000,
+                    "cashAndEquivalents": 3500,
+                    "longTermDebt": 4500,
+                    "totalEquity": 16000
+                }
+            ]
+        },
+        "cashFlow": {
+            "yearly": [
+                {
+                    "operatingCashFlow": 3800,
+                    "capitalExpenditure": -1200,
+                    "freeCashFlow": 2600
+                }
+            ]
+        },
+        "keyRatios": {
+            "roe": 26.3,
+            "roce": 24.8,
+            "debtToEquity": 0.28,
+            "interestCoverage": 8.5
+        }
+    },
+    "keyMetrics": {
+        "marketCap": 315000
+    },
+    "meta": {
+        "currency": "INR",
+        "unit": "crore",
+        "source": "deepseek-seed",
+        "fetchedAt": "2026-02-05"
+    }
+},
+{
+    "tickerId": "UPL",
+    "companyName": "UPL Ltd",
+    "industry": "Chemicals",
+    "companyProfile": {
+        "about": "UPL is a global provider of sustainable agriculture products and solutions, with a portfolio encompassing biologicals, crop protection, seeds, and digital agriculture services. It is one of the top five agricultural solutions companies worldwide.",
+        "sector": "Materials",
+        "headquarters": "Mumbai, Maharashtra",
+        "founded": "1969",
+        "website": "https://www.upl-ltd.com"
+    },
+    "currentPrice": {
+        "NSE": 545.60
+    },
+    "percentChange": -0.85,
+    "yearHigh": 620.40,
+    "yearLow": 500.25,
+    "stockTechnicalData": {
+        "dma50": 560.20,
+        "dma200": 555.75,
+        "shortTermTrend": "Neutral",
+        "longTermTrend": "Neutral",
+        "overallRating": "Hold",
+        "riskMeter": 6
+    },
+    "financials": {
+        "incomeStatement": {
+            "yearly": [
+                {
+                    "period": "FY 2025",
+                    "revenue": 45000,
+                    "netProfit": 2200,
+                    "eps": 29.3
+                }
+            ]
+        },
+        "balanceSheet": {
+            "yearly": [
+                {
+                    "totalAssets": 90000,
+                    "totalLiabilities": 60000,
+                    "cashAndEquivalents": 5000,
+                    "longTermDebt": 35000,
+                    "totalEquity": 30000
+                }
+            ]
+        },
+        "cashFlow": {
+            "yearly": [
+                {
+                    "operatingCashFlow": 6000,
+                    "capitalExpenditure": -2500,
+                    "freeCashFlow": 3500
+                }
+            ]
+        },
+        "keyRatios": {
+            "roe": 7.3,
+            "roce": 9.5,
+            "debtToEquity": 1.17,
+            "interestCoverage": 2.8
+        }
+    },
+    "keyMetrics": {
+        "marketCap": 41000
+    },
+    "meta": {
+        "currency": "INR",
+        "unit": "crore",
+        "source": "deepseek-seed",
+        "fetchedAt": "2026-02-05"
+    }
+},{
+    "tickerId": "ULTRACEMCO",
+    "companyName": "UltraTech Cement Ltd",
+    "industry": "Construction Materials",
+    "companyProfile": {
+        "about": "UltraTech Cement is the largest manufacturer of grey cement, ready mix concrete (RMC), and white cement in India. It is a part of the Aditya Birla Group and has a consolidated capacity of over 150 million tonnes per annum across India.",
+        "sector": "Materials",
+        "headquarters": "Mumbai, Maharashtra",
+        "founded": "1983",
+        "website": "https://www.ultratechcement.com"
+    },
+    "currentPrice": {
+        "NSE": 10250.80
+    },
+    "percentChange": 0.40,
+    "yearHigh": 11500.50,
+    "yearLow": 9800.25,
+    "stockTechnicalData": {
+        "dma50": 10420.30,
+        "dma200": 10150.75,
+        "shortTermTrend": "Neutral",
+        "longTermTrend": "Neutral",
+        "overallRating": "Hold",
+        "riskMeter": 5
+    },
+    "financials": {
+        "incomeStatement": {
+            "yearly": [
+                {
+                    "period": "FY 2025",
+                    "revenue": 68000,
+                    "netProfit": 6500,
+                    "eps": 234.8
+                }
+            ]
+        },
+        "balanceSheet": {
+            "yearly": [
+                {
+                    "totalAssets": 75000,
+                    "totalLiabilities": 35000,
+                    "cashAndEquivalents": 4500,
+                    "longTermDebt": 18000,
+                    "totalEquity": 40000
+                }
+            ]
+        },
+        "cashFlow": {
+            "yearly": [
+                {
+                    "operatingCashFlow": 9500,
+                    "capitalExpenditure": -5000,
+                    "freeCashFlow": 4500
+                }
+            ]
+        },
+        "keyRatios": {
+            "roe": 16.3,
+            "roce": 15.8,
+            "debtToEquity": 0.45,
+            "interestCoverage": 7.2
+        }
+    },
+    "keyMetrics": {
+        "marketCap": 310000
+    },
+    "meta": {
+        "currency": "INR",
+        "unit": "crore",
+        "source": "deepseek-seed",
+        "fetchedAt": "2026-02-05"
+    }
+},{
+    "tickerId": "WIPRO",
+    "companyName": "Wipro Ltd",
+    "industry": "Information Technology",
+    "companyProfile": {
+        "about": "Wipro is a leading global information technology, consulting, and business process services company. It harnesses the power of cognitive computing, hyper-automation, robotics, cloud, analytics, and emerging technologies to help clients adapt to the digital world.",
+        "sector": "Information Technology",
+        "headquarters": "Bengaluru, Karnataka",
+        "founded": "1945",
+        "website": "https://www.wipro.com"
+    },
+    "currentPrice": {
+        "NSE": 490.25
+    },
+    "percentChange": -0.50,
+    "yearHigh": 550.80,
+    "yearLow": 450.60,
+    "stockTechnicalData": {
+        "dma50": 495.30,
+        "dma200": 505.75,
+        "shortTermTrend": "Neutral",
+        "longTermTrend": "Neutral",
+        "overallRating": "Hold",
+        "riskMeter": 4
+    },
+    "financials": {
+        "incomeStatement": {
+            "yearly": [
+                {
+                    "period": "FY 2025",
+                    "revenue": 95000,
+                    "netProfit": 12500,
+                    "eps": 22.8
+                }
+            ]
+        },
+        "balanceSheet": {
+            "yearly": [
+                {
+                    "totalAssets": 110000,
+                    "totalLiabilities": 35000,
+                    "cashAndEquivalents": 28000,
+                    "longTermDebt": 3000,
+                    "totalEquity": 75000
+                }
+            ]
+        },
+        "cashFlow": {
+            "yearly": [
+                {
+                    "operatingCashFlow": 16500,
+                    "capitalExpenditure": -2800,
+                    "freeCashFlow": 13700
+                }
+            ]
+        },
+        "keyRatios": {
+            "roe": 16.7,
+            "roce": 18.5,
+            "debtToEquity": 0.04,
+            "interestCoverage": 22.5
+        }
+    },
+    "keyMetrics": {
+        "marketCap": 267000
+    },
+    "meta": {
+        "currency": "INR",
+        "unit": "crore",
+        "source": "deepseek-seed",
+        "fetchedAt": "2026-02-05"
+    }
+},{
+    "tickerId": "AMARAJABAT",
+    "companyName": "Amara Raja Batteries Ltd",
+    "industry": "Auto Components",
+    "companyProfile": {
+        "about": "Amara Raja Batteries is a leading Indian industrial and automotive battery manufacturer, known for its brands Amaron and PowerZone. It is a key player in both the lead-acid and lithium-ion battery segments, serving automotive and industrial applications.",
+        "sector": "Automobile Components",
+        "headquarters": "Tirupati, Andhra Pradesh",
+        "founded": "1985",
+        "website": "https://www.amararaja.com"
+    },
+    "currentPrice": {
+        "NSE": 920.40
+    },
+    "percentChange": 0.65,
+    "yearHigh": 1050.75,
+    "yearLow": 850.20,
+    "stockTechnicalData": {
+        "dma50": 905.30,
+        "dma200": 880.75,
+        "shortTermTrend": "Neutral",
+        "longTermTrend": "Neutral",
+        "overallRating": "Hold",
+        "riskMeter": 5
+    },
+    "financials": {
+        "incomeStatement": {
+            "yearly": [
+                {
+                    "period": "FY 2025",
+                    "revenue": 11500,
+                    "netProfit": 950,
+                    "eps": 55.2
+                }
+            ]
+        },
+        "balanceSheet": {
+            "yearly": [
+                {
+                    "totalAssets": 8500,
+                    "totalLiabilities": 3200,
+                    "cashAndEquivalents": 650,
+                    "longTermDebt": 850,
+                    "totalEquity": 5300
+                }
+            ]
+        },
+        "cashFlow": {
+            "yearly": [
+                {
+                    "operatingCashFlow": 1250,
+                    "capitalExpenditure": -420,
+                    "freeCashFlow": 830
+                }
+            ]
+        },
+        "keyRatios": {
+            "roe": 17.9,
+            "roce": 19.5,
+            "debtToEquity": 0.16,
+            "interestCoverage": 8.8
+        }
+    },
+    "keyMetrics": {
+        "marketCap": 15700
+    },
+    "meta": {
+        "currency": "INR",
+        "unit": "crore",
+        "source": "deepseek-seed",
+        "fetchedAt": "2026-02-05"
+    }
+},{
+    "tickerId": "ASHRIN",
+    "companyName": "Ashraf Industries Ltd",
+    "industry": "Capital Goods",
+    "companyProfile": {
+        "about": "Ashraf Industries is a mid-sized engineering company specializing in fabrication and machining for industrial equipment, with a focus on components for the power and infrastructure sectors. It operates manufacturing facilities in western India.",
+        "sector": "Capital Goods",
+        "headquarters": "Pune, Maharashtra",
+        "founded": "1992",
+        "website": "https://www.ashrafindustries.com"
+    },
+    "currentPrice": {
+        "NSE": 285.75
+    },
+    "percentChange": -0.35,
+    "yearHigh": 325.50,
+    "yearLow": 250.20,
+    "stockTechnicalData": {
+        "dma50": 290.20,
+        "dma200": 275.80,
+        "shortTermTrend": "Neutral",
+        "longTermTrend": "Neutral",
+        "overallRating": "Hold",
+        "riskMeter": 6
+    },
+    "financials": {
+        "incomeStatement": {
+            "yearly": [
+                {
+                    "period": "FY 2025",
+                    "revenue": 1450,
+                    "netProfit": 115,
+                    "eps": 18.3
+                }
+            ]
+        },
+        "balanceSheet": {
+            "yearly": [
+                {
+                    "totalAssets": 1250,
+                    "totalLiabilities": 680,
+                    "cashAndEquivalents": 85,
+                    "longTermDebt": 320,
+                    "totalEquity": 570
+                }
+            ]
+        },
+        "cashFlow": {
+            "yearly": [
+                {
+                    "operatingCashFlow": 135,
+                    "capitalExpenditure": -60,
+                    "freeCashFlow": 75
+                }
+            ]
+        },
+        "keyRatios": {
+            "roe": 20.2,
+            "roce": 18.8,
+            "debtToEquity": 0.56,
+            "interestCoverage": 4.5
+        }
+    },
+    "keyMetrics": {
+        "marketCap": 1720
+    },
+    "meta": {
+        "currency": "INR",
+        "unit": "crore",
+        "source": "deepseek-seed",
+        "fetchedAt": "2026-02-05"
+    }
+},{
+    "tickerId": "APOLLOTYRE",
+    "companyName": "Apollo Tyres Ltd",
+    "industry": "Auto Components",
+    "companyProfile": {
+        "about": "Apollo Tyres is a leading global tyre manufacturer with a significant presence in India and Europe. Its product portfolio includes tyres for passenger cars, trucks, buses, and off-road vehicles under the Apollo and Vredestein brands.",
+        "sector": "Automobile Components",
+        "headquarters": "Gurugram, Haryana",
+        "founded": "1972",
+        "website": "https://www.apollotyres.com"
+    },
+    "currentPrice": {
+        "NSE": 480.60
+    },
+    "percentChange": 0.90,
+    "yearHigh": 520.75,
+    "yearLow": 420.30,
+    "stockTechnicalData": {
+        "dma50": 475.20,
+        "dma200": 465.80,
+        "shortTermTrend": "Neutral",
+        "longTermTrend": "Neutral",
+        "overallRating": "Hold",
+        "riskMeter": 5
+    },
+    "financials": {
+        "incomeStatement": {
+            "yearly": [
+                {
+                    "period": "FY 2025",
+                    "revenue": 24500,
+                    "netProfit": 1250,
+                    "eps": 20.5
+                }
+            ]
+        },
+        "balanceSheet": {
+            "yearly": [
+                {
+                    "totalAssets": 18000,
+                    "totalLiabilities": 10500,
+                    "cashAndEquivalents": 850,
+                    "longTermDebt": 6000,
+                    "totalEquity": 7500
+                }
+            ]
+        },
+        "cashFlow": {
+            "yearly": [
+                {
+                    "operatingCashFlow": 2200,
+                    "capitalExpenditure": -1200,
+                    "freeCashFlow": 1000
+                }
+            ]
+        },
+        "keyRatios": {
+            "roe": 16.7,
+            "roce": 15.2,
+            "debtToEquity": 0.80,
+            "interestCoverage": 4.2
+        }
+    },
+    "keyMetrics": {
+        "marketCap": 28800
+    },
+    "meta": {
+        "currency": "INR",
+        "unit": "crore",
+        "source": "deepseek-seed",
+        "fetchedAt": "2026-02-05"
+    }
+},{
+    "tickerId": "BALAMINES",
+    "companyName": "Balaji Amines Ltd",
+    "industry": "Chemicals",
+    "companyProfile": {
+        "about": "Balaji Amines is a leading manufacturer of aliphatic amines, specialty chemicals, and pharmaceutical excipients in India. It serves various industries including pharmaceuticals, agrochemicals, water treatment, and paints.",
+        "sector": "Materials",
+        "headquarters": "Hyderabad, Telangana",
+        "founded": "1992",
+        "website": "https://www.balajiamines.com"
+    },
+    "currentPrice": {
+        "NSE": 3120.50
+    },
+    "percentChange": 1.20,
+    "yearHigh": 3350.80,
+    "yearLow": 2800.25,
+    "stockTechnicalData": {
+        "dma50": 3050.30,
+        "dma200": 2950.75,
+        "shortTermTrend": "Neutral",
+        "longTermTrend": "Neutral",
+        "overallRating": "Hold",
+        "riskMeter": 5
+    },
+    "financials": {
+        "incomeStatement": {
+            "yearly": [
+                {
+                    "period": "FY 2025",
+                    "revenue": 2200,
+                    "netProfit": 380,
+                    "eps": 95.2
+                }
+            ]
+        },
+        "balanceSheet": {
+            "yearly": [
+                {
+                    "totalAssets": 1800,
+                    "totalLiabilities": 650,
+                    "cashAndEquivalents": 120,
+                    "longTermDebt": 200,
+                    "totalEquity": 1150
+                }
+            ]
+        },
+        "cashFlow": {
+            "yearly": [
+                {
+                    "operatingCashFlow": 420,
+                    "capitalExpenditure": -180,
+                    "freeCashFlow": 240
+                }
+            ]
+        },
+        "keyRatios": {
+            "roe": 33.0,
+            "roce": 30.5,
+            "debtToEquity": 0.17,
+            "interestCoverage": 12.8
+        }
+    },
+    "keyMetrics": {
+        "marketCap": 12500
+    },
+    "meta": {
+        "currency": "INR",
+        "unit": "crore",
+        "source": "deepseek-seed",
+        "fetchedAt": "2026-02-05"
+    }
+},{
+    "tickerId": "BANDHANBNK",
+    "companyName": "Bandhan Bank Ltd",
+    "industry": "Banking",
+    "companyProfile": {
+        "about": "Bandhan Bank is a banking and financial services company headquartered in Kolkata, West Bengal. It started as a microfinance institution and transformed into a universal bank, focusing on retail and micro banking segments across India.",
+        "sector": "Financial Services",
+        "headquarters": "Kolkata, West Bengal",
+        "founded": "2015",
+        "website": "https://www.bandhanbank.com"
+    },
+    "currentPrice": {
+        "NSE": 205.75
+    },
+    "percentChange": -1.50,
+    "yearHigh": 240.80,
+    "yearLow": 180.50,
+    "stockTechnicalData": {
+        "dma50": 210.30,
+        "dma200": 215.75,
+        "shortTermTrend": "Neutral",
+        "longTermTrend": "Neutral",
+        "overallRating": "Hold",
+        "riskMeter": 7
+    },
+    "financials": {
+        "incomeStatement": {
+            "yearly": [
+                {
+                    "period": "FY 2025",
+                    "revenue": 18500,
+                    "netProfit": 2200,
+                    "eps": 18.5
+                }
+            ]
+        },
+        "balanceSheet": {
+            "yearly": [
+                {
+                    "totalAssets": 225000,
+                    "totalLiabilities": 212000,
+                    "cashAndEquivalents": 8500,
+                    "longTermDebt": 0,
+                    "totalEquity": 13000
+                }
+            ]
+        },
+        "cashFlow": {
+            "yearly": [
+                {
+                    "operatingCashFlow": 5200,
+                    "capitalExpenditure": -350,
+                    "freeCashFlow": 4850
+                }
+            ]
+        },
+        "keyRatios": {
+            "roe": 16.9,
+            "roce": 5.8,
+            "debtToEquity": 0.0,
+            "interestCoverage": 0
+        }
+    },
+    "keyMetrics": {
+        "marketCap": 33500
+    },
+    "meta": {
+        "currency": "INR",
+        "unit": "crore",
+        "source": "deepseek-seed",
+        "fetchedAt": "2026-02-05"
+    }
+},{
+    "tickerId": "BERGEPAINT",
+    "companyName": "Berger Paints India Ltd",
+    "industry": "Chemicals",
+    "companyProfile": {
+        "about": "Berger Paints India is the second-largest paint company in India, offering a wide range of decorative and industrial paints. It has a strong distribution network and brand presence across the country.",
+        "sector": "Materials",
+        "headquarters": "Kolkata, West Bengal",
+        "founded": "1923",
+        "website": "https://www.bergerpaints.com"
+    },
+    "currentPrice": {
+        "NSE": 620.40
+    },
+    "percentChange": 0.65,
+    "yearHigh": 680.75,
+    "yearLow": 550.20,
+    "stockTechnicalData": {
+        "dma50": 610.30,
+        "dma200": 595.80,
+        "shortTermTrend": "Neutral",
+        "longTermTrend": "Neutral",
+        "overallRating": "Hold",
+        "riskMeter": 4
+    },
+    "financials": {
+        "incomeStatement": {
+            "yearly": [
+                {
+                    "period": "FY 2025",
+                    "revenue": 11500,
+                    "netProfit": 1250,
+                    "eps": 14.8
+                }
+            ]
+        },
+        "balanceSheet": {
+            "yearly": [
+                {
+                    "totalAssets": 8500,
+                    "totalLiabilities": 3500,
+                    "cashAndEquivalents": 650,
+                    "longTermDebt": 800,
+                    "totalEquity": 5000
+                }
+            ]
+        },
+        "cashFlow": {
+            "yearly": [
+                {
+                    "operatingCashFlow": 1500,
+                    "capitalExpenditure": -450,
+                    "freeCashFlow": 1050
+                }
+            ]
+        },
+        "keyRatios": {
+            "roe": 25.0,
+            "roce": 26.5,
+            "debtToEquity": 0.16,
+            "interestCoverage": 11.2
+        }
+    },
+    "keyMetrics": {
+        "marketCap": 74500
+    },
+    "meta": {
+        "currency": "INR",
+        "unit": "crore",
+        "source": "deepseek-seed",
+        "fetchedAt": "2026-02-05"
+    }
+},{
+    "tickerId": "BEML",
+    "companyName": "BEML Ltd",
+    "industry": "Capital Goods",
+    "companyProfile": {
+        "about": "BEML (formerly Bharat Earth Movers Limited) is a Miniratna Category-1 Public Sector Undertaking under the Ministry of Defence. It manufactures a variety of heavy equipment for sectors such as defence, mining, construction, and rail and metro.",
+        "sector": "Capital Goods",
+        "headquarters": "Bengaluru, Karnataka",
+        "founded": "1964",
+        "website": "https://www.bemlindia.in"
+    },
+    "currentPrice": {
+        "NSE": 3250.80
+    },
+    "percentChange": -0.40,
+    "yearHigh": 3600.50,
+    "yearLow": 2950.75,
+    "stockTechnicalData": {
+        "dma50": 3320.30,
+        "dma200": 3200.75,
+        "shortTermTrend": "Neutral",
+        "longTermTrend": "Neutral",
+        "overallRating": "Hold",
+        "riskMeter": 5
+    },
+    "financials": {
+        "incomeStatement": {
+            "yearly": [
+                {
+                    "period": "FY 2025",
+                    "revenue": 4500,
+                    "netProfit": 320,
+                    "eps": 78.5
+                }
+            ]
+        },
+        "balanceSheet": {
+            "yearly": [
+                {
+                    "totalAssets": 5200,
+                    "totalLiabilities": 2800,
+                    "cashAndEquivalents": 350,
+                    "longTermDebt": 850,
+                    "totalEquity": 2400
+                }
+            ]
+        },
+        "cashFlow": {
+            "yearly": [
+                {
+                    "operatingCashFlow": 450,
+                    "capitalExpenditure": -220,
+                    "freeCashFlow": 230
+                }
+            ]
+        },
+        "keyRatios": {
+            "roe": 13.3,
+            "roce": 14.8,
+            "debtToEquity": 0.35,
+            "interestCoverage": 5.5
+        }
+    },
+    "keyMetrics": {
+        "marketCap": 13500
+    },
+    "meta": {
+        "currency": "INR",
+        "unit": "crore",
+        "source": "deepseek-seed",
+        "fetchedAt": "2026-02-05"
+    }
+},{
+    "tickerId": "CANFINHOME",
+    "companyName": "Can Fin Homes Ltd",
+    "industry": "Housing Finance",
+    "companyProfile": {
+        "about": "Can Fin Homes is a housing finance company promoted by Canara Bank. It provides loans for the purchase, construction, and renovation of residential properties, primarily to individuals in the mid-income segment across India.",
+        "sector": "Financial Services",
+        "headquarters": "Bengaluru, Karnataka",
+        "founded": "1987",
+        "website": "https://www.canfinhomes.com"
+    },
+    "currentPrice": {
+        "NSE": 850.25
+    },
+    "percentChange": 0.30,
+    "yearHigh": 920.50,
+    "yearLow": 780.80,
+    "stockTechnicalData": {
+        "dma50": 840.30,
+        "dma200": 820.75,
+        "shortTermTrend": "Neutral",
+        "longTermTrend": "Neutral",
+        "overallRating": "Hold",
+        "riskMeter": 5
+    },
+    "financials": {
+        "incomeStatement": {
+            "yearly": [
+                {
+                    "period": "FY 2025",
+                    "revenue": 3200,
+                    "netProfit": 650,
+                    "eps": 52.3
+                }
+            ]
+        },
+        "balanceSheet": {
+            "yearly": [
+                {
+                    "totalAssets": 45000,
+                    "totalLiabilities": 42000,
+                    "cashAndEquivalents": 1200,
+                    "longTermDebt": 38000,
+                    "totalEquity": 3000
+                }
+            ]
+        },
+        "cashFlow": {
+            "yearly": [
+                {
+                    "operatingCashFlow": -1800,
+                    "capitalExpenditure": -25,
+                    "freeCashFlow": -1825
+                }
+            ]
+        },
+        "keyRatios": {
+            "roe": 21.7,
+            "roce": 3.5,
+            "debtToEquity": 12.67,
+            "interestCoverage": 1.8
+        }
+    },
+    "keyMetrics": {
+        "marketCap": 10500
+    },
+    "meta": {
+        "currency": "INR",
+        "unit": "crore",
+        "source": "deepseek-seed",
+        "fetchedAt": "2026-02-05"
+    }
+},{
+    "tickerId": "CASTROLIND",
+    "companyName": "Castrol India Ltd",
+    "industry": "Oil & Gas",
+    "companyProfile": {
+        "about": "Castrol India is a leading manufacturer and marketer of lubricants for automotive and industrial applications. It is a subsidiary of Castrol Limited UK (part of BP Group) and has a strong brand presence in the Indian lubricants market.",
+        "sector": "Energy",
+        "headquarters": "Mumbai, Maharashtra",
+        "founded": "1919",
+        "website": "https://www.castrol.com/en_in/india.html"
+    },
+    "currentPrice": {
+        "NSE": 205.60
+    },
+    "percentChange": 0.75,
+    "yearHigh": 225.80,
+    "yearLow": 190.40,
+    "stockTechnicalData": {
+        "dma50": 202.30,
+        "dma200": 198.75,
+        "shortTermTrend": "Neutral",
+        "longTermTrend": "Neutral",
+        "overallRating": "Hold",
+        "riskMeter": 3
+    },
+    "financials": {
+        "incomeStatement": {
+            "yearly": [
+                {
+                    "period": "FY 2025",
+                    "revenue": 4800,
+                    "netProfit": 750,
+                    "eps": 7.6
+                }
+            ]
+        },
+        "balanceSheet": {
+            "yearly": [
+                {
+                    "totalAssets": 3200,
+                    "totalLiabilities": 850,
+                    "cashAndEquivalents": 650,
+                    "longTermDebt": 0,
+                    "totalEquity": 2350
+                }
+            ]
+        },
+        "cashFlow": {
+            "yearly": [
+                {
+                    "operatingCashFlow": 820,
+                    "capitalExpenditure": -120,
+                    "freeCashFlow": 700
+                }
+            ]
+        },
+        "keyRatios": {
+            "roe": 31.9,
+            "roce": 42.5,
+            "debtToEquity": 0.0,
+            "interestCoverage": 0
+        }
+    },
+    "keyMetrics": {
+        "marketCap": 20500
+    },
+    "meta": {
+        "currency": "INR",
+        "unit": "crore",
+        "source": "deepseek-seed",
+        "fetchedAt": "2026-02-05"
+    }
+},{
+    "tickerId": "CENTURY TEXT",
+    "companyName": "Century Textiles & Industries Ltd",
+    "industry": "Diversified",
+    "companyProfile": {
+        "about": "Century Textiles & Industries is a diversified company with interests in textiles, pulp & paper, cement, and real estate. Part of the BK Birla Group, it has been undergoing a restructuring to focus on its core businesses.",
+        "sector": "Diversified",
+        "headquarters": "Mumbai, Maharashtra",
+        "founded": "1897",
+        "website": "https://www.centurytextiles.com"
+    },
+    "currentPrice": {
+        "NSE": 2100.75
+    },
+    "percentChange": -0.50,
+    "yearHigh": 2350.50,
+    "yearLow": 1950.80,
+    "stockTechnicalData": {
+        "dma50": 2150.30,
+        "dma200": 2050.75,
+        "shortTermTrend": "Neutral",
+        "longTermTrend": "Neutral",
+        "overallRating": "Hold",
+        "riskMeter": 6
+    },
+    "financials": {
+        "incomeStatement": {
+            "yearly": [
+                {
+                    "period": "FY 2025",
+                    "revenue": 8500,
+                    "netProfit": 450,
+                    "eps": 35.2
+                }
+            ]
+        },
+        "balanceSheet": {
+            "yearly": [
+                {
+                    "totalAssets": 12500,
+                    "totalLiabilities": 7500,
+                    "cashAndEquivalents": 500,
+                    "longTermDebt": 4000,
+                    "totalEquity": 5000
+                }
+            ]
+        },
+        "cashFlow": {
+            "yearly": [
+                {
+                    "operatingCashFlow": 850,
+                    "capitalExpenditure": -350,
+                    "freeCashFlow": 500
+                }
+            ]
+        },
+        "keyRatios": {
+            "roe": 9.0,
+            "roce": 8.5,
+            "debtToEquity": 0.80,
+            "interestCoverage": 3.2
+        }
+    },
+    "keyMetrics": {
+        "marketCap": 26500
+    },
+    "meta": {
+        "currency": "INR",
+        "unit": "crore",
+        "source": "deepseek-seed",
+        "fetchedAt": "2026-02-05"
+    }
+},{
+  "tickerId": "CHENNPETRO",
+  "companyName": "Chennai Petroleum Corporation Ltd",
+  "industry": "Oil & Gas",
+  "companyProfile": {
+    "about": "Chennai Petroleum Corporation is an Indian public sector oil refining company, a subsidiary of IndianOil Corporation. It operates refineries in Chennai and Nagapattinam, producing a range of petroleum products.",
+    "sector": "Energy",
+    "headquarters": "Chennai, Tamil Nadu",
+    "founded": "1965",
+    "website": "https://www.cpcl.co.in"
+  },
+  "currentPrice": { "NSE": 105.50 },
+  "percentChange": -1.25,
+  "yearHigh": 125.80,
+  "yearLow": 95.20,
+  "stockTechnicalData": {
+    "dma50": 108.30,
+    "dma200": 112.75,
+    "shortTermTrend": "Bearish",
+    "longTermTrend": "Bearish",
+    "overallRating": "Sell",
+    "riskMeter": 6
+  },
+  "financials": {
+    "incomeStatement": {
+      "yearly": [
+        { "period": "FY 2025", "revenue": 65000, "netProfit": 1200, "eps": 8.2 }
+      ]
+    },
+    "balanceSheet": {
+      "yearly": [
+        {
+          "totalAssets": 18000,
+          "totalLiabilities": 11000,
+          "cashAndEquivalents": 850,
+          "longTermDebt": 5500,
+          "totalEquity": 7000
+        }
+      ]
+    },
+    "cashFlow": {
+      "yearly": [
+        {
+          "operatingCashFlow": 1800,
+          "capitalExpenditure": -1200,
+          "freeCashFlow": 600
+        }
+      ]
+    },
+    "keyRatios": {
+      "roe": 8.6,
+      "roce": 9.2,
+      "debtToEquity": 0.79,
+      "interestCoverage": 3.2
+    }
+  },
+  "keyMetrics": { "marketCap": 15750 },
+  "meta": {
+    "currency": "INR",
+    "unit": "crore",
+    "source": "deepseek-seed",
+    "fetchedAt": "2026-02-05"
+  }
+},{
+  "tickerId": "COLPAL",
+  "companyName": "Colgate Palmolive (India) Ltd",
+  "industry": "FMCG",
+  "companyProfile": {
+    "about": "Colgate Palmolive (India) is a leading provider of oral care products in India, including toothpaste, toothbrushes, and mouthwashes. It is a subsidiary of Colgate-Palmolive Company, USA, and faces intense competition in the consumer goods market.",
+    "sector": "Consumer Staples",
+    "headquarters": "Mumbai, Maharashtra",
+    "founded": "1937",
+    "website": "https://www.colgate.co.in"
+  },
+  "currentPrice": { "NSE": 2650.80 },
+  "percentChange": -0.45,
+  "yearHigh": 2900.50,
+  "yearLow": 2500.75,
+  "stockTechnicalData": {
+    "dma50": 2680.30,
+    "dma200": 2750.75,
+    "shortTermTrend": "Bearish",
+    "longTermTrend": "Neutral",
+    "overallRating": "Hold",
+    "riskMeter": 5
+  },
+  "financials": {
+    "incomeStatement": {
+      "yearly": [
+        { "period": "FY 2025", "revenue": 5400, "netProfit": 1050, "eps": 38.5 }
+      ]
+    },
+    "balanceSheet": {
+      "yearly": [
+        {
+          "totalAssets": 3800,
+          "totalLiabilities": 1100,
+          "cashAndEquivalents": 800,
+          "longTermDebt": 0,
+          "totalEquity": 2700
+        }
+      ]
+    },
+    "cashFlow": {
+      "yearly": [
+        {
+          "operatingCashFlow": 1250,
+          "capitalExpenditure": -200,
+          "freeCashFlow": 1050
+        }
+      ]
+    },
+    "keyRatios": {
+      "roe": 9.7,
+      "roce": 10.8,
+      "debtToEquity": 0.0,
+      "interestCoverage": 0
+    }
+  },
+  "keyMetrics": { "marketCap": 72500 },
+  "meta": {
+    "currency": "INR",
+    "unit": "crore",
+    "source": "deepseek-seed",
+    "fetchedAt": "2026-02-05"
+  }
+},{
+  "tickerId": "CONCOR",
+  "companyName": "Container Corporation of India Ltd",
+  "industry": "Logistics",
+  "companyProfile": {
+    "about": "Container Corporation of India is a public sector undertaking that provides logistics and intermodal transport services, primarily focusing on containerized cargo via rail. It operates a network of inland container depots and rail terminals.",
+    "sector": "Industrials",
+    "headquarters": "New Delhi, Delhi",
+    "founded": "1988",
+    "website": "https://www.concorindia.com"
+  },
+  "currentPrice": { "NSE": 1050.25 },
+  "percentChange": -0.80,
+  "yearHigh": 1200.50,
+  "yearLow": 980.40,
+  "stockTechnicalData": {
+    "dma50": 1075.30,
+    "dma200": 1100.75,
+    "shortTermTrend": "Bearish",
+    "longTermTrend": "Neutral",
+    "overallRating": "Hold",
+    "riskMeter": 6
+  },
+  "financials": {
+    "incomeStatement": {
+      "yearly": [
+        { "period": "FY 2025", "revenue": 8500, "netProfit": 950, "eps": 15.3 }
+      ]
+    },
+    "balanceSheet": {
+      "yearly": [
+        {
+          "totalAssets": 12000,
+          "totalLiabilities": 5500,
+          "cashAndEquivalents": 1200,
+          "longTermDebt": 2800,
+          "totalEquity": 6500
+        }
+      ]
+    },
+    "cashFlow": {
+      "yearly": [
+        {
+          "operatingCashFlow": 1300,
+          "capitalExpenditure": -900,
+          "freeCashFlow": 400
+        }
+      ]
+    },
+    "keyRatios": {
+      "roe": 7.3,
+      "roce": 8.5,
+      "debtToEquity": 0.62,
+      "interestCoverage": 3.5
+    }
+  },
+  "keyMetrics": { "marketCap": 64000 },
+  "meta": {
+    "currency": "INR",
+    "unit": "crore",
+    "source": "deepseek-seed",
+    "fetchedAt": "2026-02-05"
+  }
+},{
+  "tickerId": "CROMPTON",
+  "companyName": "Crompton Greaves Consumer Electricals Ltd",
+  "industry": "Consumer Durables",
+  "companyProfile": {
+    "about": "Crompton Greaves Consumer Electricals manufactures and markets consumer electrical products such as fans, lighting, pumps, and appliances. It operates in a highly competitive segment with pressure on margins.",
+    "sector": "Consumer Discretionary",
+    "headquarters": "Mumbai, Maharashtra",
+    "founded": "1937",
+    "website": "https://www.crompton.co.in"
+  },
+  "currentPrice": { "NSE": 315.50 },
+  "percentChange": -1.20,
+  "yearHigh": 365.80,
+  "yearLow": 300.25,
+  "stockTechnicalData": {
+    "dma50": 325.30,
+    "dma200": 335.75,
+    "shortTermTrend": "Bearish",
+    "longTermTrend": "Bearish",
+    "overallRating": "Hold",
+    "riskMeter": 6
+  },
+  "financials": {
+    "incomeStatement": {
+      "yearly": [
+        { "period": "FY 2025", "revenue": 7200, "netProfit": 580, "eps": 9.2 }
+      ]
+    },
+    "balanceSheet": {
+      "yearly": [
+        {
+          "totalAssets": 5200,
+          "totalLiabilities": 2400,
+          "cashAndEquivalents": 450,
+          "longTermDebt": 800,
+          "totalEquity": 2800
+        }
+      ]
+    },
+    "cashFlow": {
+      "yearly": [
+        {
+          "operatingCashFlow": 700,
+          "capitalExpenditure": -300,
+          "freeCashFlow": 400
+        }
+      ]
+    },
+    "keyRatios": {
+      "roe": 8.9,
+      "roce": 9.5,
+      "debtToEquity": 0.67,
+      "interestCoverage": 3.8
+    }
+  },
+  "keyMetrics": { "marketCap": 20500 },
+  "meta": {
+    "currency": "INR",
+    "unit": "crore",
+    "source": "deepseek-seed",
+    "fetchedAt": "2026-02-05"
+  }
+},{
+  "tickerId": "CUMMINSIND",
+  "companyName": "Cummins India Ltd",
+  "industry": "Capital Goods",
+  "companyProfile": {
+    "about": "Cummins India manufactures diesel and natural gas engines for power generation, industrial, and automotive applications. It is a subsidiary of Cummins Inc., USA, and faces cyclical demand and competitive pressures.",
+    "sector": "Industrials",
+    "headquarters": "Pune, Maharashtra",
+    "founded": "1962",
+    "website": "https://www.cumminsindia.com"
+  },
+  "currentPrice": { "NSE": 2850.75 },
+  "percentChange": -0.65,
+  "yearHigh": 3150.50,
+  "yearLow": 2650.80,
+  "stockTechnicalData": {
+    "dma50": 2900.30,
+    "dma200": 2950.75,
+    "shortTermTrend": "Neutral",
+    "longTermTrend": "Neutral",
+    "overallRating": "Hold",
+    "riskMeter": 5
+  },
+  "financials": {
+    "incomeStatement": {
+      "yearly": [
+        { "period": "FY 2025", "revenue": 8200, "netProfit": 1050, "eps": 37.5 }
+      ]
+    },
+    "balanceSheet": {
+      "yearly": [
+        {
+          "totalAssets": 7500,
+          "totalLiabilities": 1800,
+          "cashAndEquivalents": 2200,
+          "longTermDebt": 0,
+          "totalEquity": 5700
+        }
+      ]
+    },
+    "cashFlow": {
+      "yearly": [
+        {
+          "operatingCashFlow": 1200,
+          "capitalExpenditure": -400,
+          "freeCashFlow": 800
+        }
+      ]
+    },
+    "keyRatios": {
+      "roe": 9.6,
+      "roce": 10.2,
+      "debtToEquity": 0.0,
+      "interestCoverage": 0
+    }
+  },
+  "keyMetrics": { "marketCap": 78500 },
+  "meta": {
+    "currency": "INR",
+    "unit": "crore",
+    "source": "deepseek-seed",
+    "fetchedAt": "2026-02-05"
+  }
+},{
+  "tickerId": "DABUR",
+  "companyName": "Dabur India Ltd",
+  "industry": "FMCG",
+  "companyProfile": {
+    "about": "Dabur India is a leading Indian consumer goods company with a portfolio of ayurvedic and natural health care, personal care, and food products. It faces intense competition and margin pressures in its core segments.",
+    "sector": "Consumer Staples",
+    "headquarters": "Ghaziabad, Uttar Pradesh",
+    "founded": "1884",
+    "website": "https://www.dabur.com"
+  },
+  "currentPrice": { "NSE": 545.80 },
+  "percentChange": -0.90,
+  "yearHigh": 600.50,
+  "yearLow": 520.25,
+  "stockTechnicalData": {
+    "dma50": 555.30,
+    "dma200": 565.75,
+    "shortTermTrend": "Neutral",
+    "longTermTrend": "Neutral",
+    "overallRating": "Hold",
+    "riskMeter": 5
+  },
+  "financials": {
+    "incomeStatement": {
+      "yearly": [
+        { "period": "FY 2025", "revenue": 12500, "netProfit": 1850, "eps": 10.5 }
+      ]
+    },
+    "balanceSheet": {
+      "yearly": [
+        {
+          "totalAssets": 9500,
+          "totalLiabilities": 3200,
+          "cashAndEquivalents": 1200,
+          "longTermDebt": 500,
+          "totalEquity": 6300
+        }
+      ]
+    },
+    "cashFlow": {
+      "yearly": [
+        {
+          "operatingCashFlow": 2200,
+          "capitalExpenditure": -600,
+          "freeCashFlow": 1600
+        }
+      ]
+    },
+    "keyRatios": {
+      "roe": 9.5,
+      "roce": 10.8,
+      "debtToEquity": 0.52,
+      "interestCoverage": 4.2
+    }
+  },
+  "keyMetrics": { "marketCap": 96500 },
+  "meta": {
+    "currency": "INR",
+    "unit": "crore",
+    "source": "deepseek-seed",
+    "fetchedAt": "2026-02-05"
+  }
+},{
+  "tickerId": "DREDGECORP",
+  "companyName": "Dredging Corporation of India Ltd",
+  "industry": "Infrastructure",
+  "companyProfile": {
+    "about": "Dredging Corporation of India is a public sector undertaking that provides dredging services for maintaining navigable channels at major ports, fishing harbors, and other marine infrastructure projects across India.",
+    "sector": "Industrials",
+    "headquarters": "Visakhapatnam, Andhra Pradesh",
+    "founded": "1976",
+    "website": "https://www.dredge-india.com"
+  },
+  "currentPrice": { "NSE": 520.25 },
+  "percentChange": -1.50,
+  "yearHigh": 610.80,
+  "yearLow": 500.50,
+  "stockTechnicalData": {
+    "dma50": 540.30,
+    "dma200": 560.75,
+    "shortTermTrend": "Bearish",
+    "longTermTrend": "Bearish",
+    "overallRating": "Sell",
+    "riskMeter": 7
+  },
+  "financials": {
+    "incomeStatement": {
+      "yearly": [
+        { "period": "FY 2025", "revenue": 850, "netProfit": 45, "eps": 6.8 }
+      ]
+    },
+    "balanceSheet": {
+      "yearly": [
+        {
+          "totalAssets": 1200,
+          "totalLiabilities": 750,
+          "cashAndEquivalents": 80,
+          "longTermDebt": 400,
+          "totalEquity": 450
+        }
+      ]
+    },
+    "cashFlow": {
+      "yearly": [
+        {
+          "operatingCashFlow": 70,
+          "capitalExpenditure": -50,
+          "freeCashFlow": 20
+        }
+      ]
+    },
+    "keyRatios": {
+      "roe": 6.0,
+      "roce": 7.5,
+      "debtToEquity": 0.89,
+      "interestCoverage": 2.5
+    }
+  },
+  "keyMetrics": { "marketCap": 1560 },
+  "meta": {
+    "currency": "INR",
+    "unit": "crore",
+    "source": "deepseek-seed",
+    "fetchedAt": "2026-02-05"
+  }
+},{
+  "tickerId": "EIDPARRY",
+  "companyName": "EID Parry (India) Ltd",
+  "industry": "Sugar",
+  "companyProfile": {
+    "about": "EID Parry (India) is a part of the Murugappa Group, engaged in the manufacture and marketing of sugar, bio-products, and nutraceuticals. It operates sugar mills and distilleries, facing cyclicality in sugar prices and regulatory challenges.",
+    "sector": "Consumer Staples",
+    "headquarters": "Chennai, Tamil Nadu",
+    "founded": "1788",
+    "website": "https://www.eidparry.com"
+  },
+  "currentPrice": { "NSE": 620.40 },
+  "percentChange": -0.75,
+  "yearHigh": 720.50,
+  "yearLow": 590.25,
+  "stockTechnicalData": {
+    "dma50": 635.30,
+    "dma200": 650.75,
+    "shortTermTrend": "Neutral",
+    "longTermTrend": "Neutral",
+    "overallRating": "Hold",
+    "riskMeter": 6
+  },
+  "financials": {
+    "incomeStatement": {
+      "yearly": [
+        { "period": "FY 2025", "revenue": 7500, "netProfit": 420, "eps": 25.3 }
+      ]
+    },
+    "balanceSheet": {
+      "yearly": [
+        {
+          "totalAssets": 6500,
+          "totalLiabilities": 3800,
+          "cashAndEquivalents": 300,
+          "longTermDebt": 1800,
+          "totalEquity": 2700
+        }
+      ]
+    },
+    "cashFlow": {
+      "yearly": [
+        {
+          "operatingCashFlow": 550,
+          "capitalExpenditure": -300,
+          "freeCashFlow": 250
+        }
+      ]
+    },
+    "keyRatios": {
+      "roe": 7.8,
+      "roce": 8.5,
+      "debtToEquity": 0.96,
+      "interestCoverage": 3.0
+    }
+  },
+  "keyMetrics": { "marketCap": 11100 },
+  "meta": {
+    "currency": "INR",
+    "unit": "crore",
+    "source": "deepseek-seed",
+    "fetchedAt": "2026-02-05"
+  }
+},{
+  "tickerId": "EMAMILTD",
+  "companyName": "Emami Ltd",
+  "industry": "FMCG",
+  "companyProfile": {
+    "about": "Emami is a leading Indian consumer goods company with a portfolio in healthcare and personal care products, including pain management, skincare, and haircare. It faces stiff competition and brand investment pressures.",
+    "sector": "Consumer Staples",
+    "headquarters": "Kolkata, West Bengal",
+    "founded": "1974",
+    "website": "https://www.emamiltd.in"
+  },
+  "currentPrice": { "NSE": 450.75 },
+  "percentChange": -1.20,
+  "yearHigh": 520.80,
+  "yearLow": 430.50,
+  "stockTechnicalData": {
+    "dma50": 465.30,
+    "dma200": 480.75,
+    "shortTermTrend": "Bearish",
+    "longTermTrend": "Neutral",
+    "overallRating": "Hold",
+    "riskMeter": 6
+  },
+  "financials": {
+    "incomeStatement": {
+      "yearly": [
+        { "period": "FY 2025", "revenue": 3200, "netProfit": 480, "eps": 11.2 }
+      ]
+    },
+    "balanceSheet": {
+      "yearly": [
+        {
+          "totalAssets": 2800,
+          "totalLiabilities": 1100,
+          "cashAndEquivalents": 250,
+          "longTermDebt": 300,
+          "totalEquity": 1700
+        }
+      ]
+    },
+    "cashFlow": {
+      "yearly": [
+        {
+          "operatingCashFlow": 520,
+          "capitalExpenditure": -150,
+          "freeCashFlow": 370
+        }
+      ]
+    },
+    "keyRatios": {
+      "roe": 8.5,
+      "roce": 9.2,
+      "debtToEquity": 0.65,
+      "interestCoverage": 3.8
+    }
+  },
+  "keyMetrics": { "marketCap": 20000 },
+  "meta": {
+    "currency": "INR",
+    "unit": "crore",
+    "source": "deepseek-seed",
+    "fetchedAt": "2026-02-05"
+  }
+},{
+  "tickerId": "ENGINERSIN",
+  "companyName": "Engineers India Ltd",
+  "industry": "Engineering & Construction",
+  "companyProfile": {
+    "about": "Engineers India is a leading engineering consultancy and EPC company primarily serving the oil & gas, petrochemicals, and infrastructure sectors. It is a public sector undertaking facing project execution challenges and margin pressures.",
+    "sector": "Industrials",
+    "headquarters": "New Delhi, Delhi",
+    "founded": "1965",
+    "website": "https://www.engineersindia.com"
+  },
+  "currentPrice": { "NSE": 225.60 },
+  "percentChange": -0.65,
+  "yearHigh": 260.80,
+  "yearLow": 210.40,
+  "stockTechnicalData": {
+    "dma50": 230.30,
+    "dma200": 235.75,
+    "shortTermTrend": "Neutral",
+    "longTermTrend": "Neutral",
+    "overallRating": "Hold",
+    "riskMeter": 5
+  },
+  "financials": {
+    "incomeStatement": {
+      "yearly": [
+        { "period": "FY 2025", "revenue": 3200, "netProfit": 280, "eps": 20.5 }
+      ]
+    },
+    "balanceSheet": {
+      "yearly": [
+        {
+          "totalAssets": 4500,
+          "totalLiabilities": 1800,
+          "cashAndEquivalents": 1200,
+          "longTermDebt": 0,
+          "totalEquity": 2700
+        }
+      ]
+    },
+    "cashFlow": {
+      "yearly": [
+        {
+          "operatingCashFlow": 350,
+          "capitalExpenditure": -100,
+          "freeCashFlow": 250
+        }
+      ]
+    },
+    "keyRatios": {
+      "roe": 6.2,
+      "roce": 7.8,
+      "debtToEquity": 0.0,
+      "interestCoverage": 0
+    }
+  },
+  "keyMetrics": { "marketCap": 13500 },
+  "meta": {
+    "currency": "INR",
+    "unit": "crore",
+    "source": "deepseek-seed",
+    "fetchedAt": "2026-02-05"
+  }
+},{
+  "tickerId": "EXIDEIND",
+  "companyName": "Exide Industries Ltd",
+  "industry": "Auto Components",
+  "companyProfile": {
+    "about": "Exide Industries is a leading manufacturer of lead-acid storage batteries for automotive and industrial applications in India. It faces intense competition, technological disruption from lithium-ion, and raw material price volatility.",
+    "sector": "Automobile Components",
+    "headquarters": "Kolkata, West Bengal",
+    "founded": "1947",
+    "website": "https://www.exideindustries.com"
+  },
+  "currentPrice": { "NSE": 345.25 },
+  "percentChange": -1.10,
+  "yearHigh": 395.80,
+  "yearLow": 330.50,
+  "stockTechnicalData": {
+    "dma50": 355.30,
+    "dma200": 365.75,
+    "shortTermTrend": "Bearish",
+    "longTermTrend": "Bearish",
+    "overallRating": "Hold",
+    "riskMeter": 6
+  },
+  "financials": {
+    "incomeStatement": {
+      "yearly": [
+        { "period": "FY 2025", "revenue": 16500, "netProfit": 950, "eps": 11.2 }
+      ]
+    },
+    "balanceSheet": {
+      "yearly": [
+        {
+          "totalAssets": 12000,
+          "totalLiabilities": 4800,
+          "cashAndEquivalents": 1200,
+          "longTermDebt": 1500,
+          "totalEquity": 7200
+        }
+      ]
+    },
+    "cashFlow": {
+      "yearly": [
+        {
+          "operatingCashFlow": 1300,
+          "capitalExpenditure": -700,
+          "freeCashFlow": 600
+        }
+      ]
+    },
+    "keyRatios": {
+      "roe": 7.9,
+      "roce": 8.5,
+      "debtToEquity": 0.62,
+      "interestCoverage": 4.0
+    }
+  },
+  "keyMetrics": { "marketCap": 29400 },
+  "meta": {
+    "currency": "INR",
+    "unit": "crore",
+    "source": "deepseek-seed",
+    "fetchedAt": "2026-02-05"
+  }
+},{
+  "tickerId": "FINPIPE",
+  "companyName": "Finolex Cables Ltd",
+  "industry": "Electrical Equipment",
+  "companyProfile": {
+    "about": "Finolex Cables manufactures electrical and telecommunication cables, including power, control, and instrumentation cables. It operates in a competitive, capital-intensive industry with exposure to commodity price fluctuations.",
+    "sector": "Industrials",
+    "headquarters": "Pune, Maharashtra",
+    "founded": "1958",
+    "website": "https://www.finolex.com"
+  },
+  "currentPrice": { "NSE": 1250.50 },
+  "percentChange": -0.50,
+  "yearHigh": 1380.80,
+  "yearLow": 1180.25,
+  "stockTechnicalData": {
+    "dma50": 1270.30,
+    "dma200": 1285.75,
+    "shortTermTrend": "Neutral",
+    "longTermTrend": "Neutral",
+    "overallRating": "Hold",
+    "riskMeter": 5
+  },
+  "financials": {
+    "incomeStatement": {
+      "yearly": [
+        { "period": "FY 2025", "revenue": 4800, "netProfit": 420, "eps": 33.8 }
+      ]
+    },
+    "balanceSheet": {
+      "yearly": [
+        {
+          "totalAssets": 3800,
+          "totalLiabilities": 1200,
+          "cashAndEquivalents": 450,
+          "longTermDebt": 300,
+          "totalEquity": 2600
+        }
+      ]
+    },
+    "cashFlow": {
+      "yearly": [
+        {
+          "operatingCashFlow": 520,
+          "capitalExpenditure": -200,
+          "freeCashFlow": 320
+        }
+      ]
+    },
+    "keyRatios": {
+      "roe": 8.1,
+      "roce": 9.5,
+      "debtToEquity": 0.58,
+      "interestCoverage": 3.5
+    }
+  },
+  "keyMetrics": { "marketCap": 19500 },
+  "meta": {
+    "currency": "INR",
+    "unit": "crore",
+    "source": "deepseek-seed",
+    "fetchedAt": "2026-02-05"
+  }
+},{
+  "tickerId": "FSL",
+  "companyName": "Firstsource Solutions Ltd",
+  "industry": "IT Services",
+  "companyProfile": {
+    "about": "Firstsource Solutions is a global business process management (BPM) company providing customer experience, collections, and healthcare revenue cycle management services. It faces margin pressures and intense competition in the outsourcing industry.",
+    "sector": "Information Technology",
+    "headquarters": "Mumbai, Maharashtra",
+    "founded": "2001",
+    "website": "https://www.firstsource.com"
+  },
+  "currentPrice": { "NSE": 210.75 },
+  "percentChange": -1.25,
+  "yearHigh": 245.80,
+  "yearLow": 200.50,
+  "stockTechnicalData": {
+    "dma50": 218.30,
+    "dma200": 225.75,
+    "shortTermTrend": "Bearish",
+    "longTermTrend": "Neutral",
+    "overallRating": "Hold",
+    "riskMeter": 6
+  },
+  "financials": {
+    "incomeStatement": {
+      "yearly": [
+        { "period": "FY 2025", "revenue": 7200, "netProfit": 650, "eps": 10.2 }
+      ]
+    },
+    "balanceSheet": {
+      "yearly": [
+        {
+          "totalAssets": 5500,
+          "totalLiabilities": 2500,
+          "cashAndEquivalents": 800,
+          "longTermDebt": 900,
+          "totalEquity": 3000
+        }
+      ]
+    },
+    "cashFlow": {
+      "yearly": [
+        {
+          "operatingCashFlow": 850,
+          "capitalExpenditure": -300,
+          "freeCashFlow": 550
+        }
+      ]
+    },
+    "keyRatios": {
+      "roe": 8.7,
+      "roce": 9.8,
+      "debtToEquity": 0.75,
+      "interestCoverage": 3.2
+    }
+  },
+  "keyMetrics": { "marketCap": 12800 },
+  "meta": {
+    "currency": "INR",
+    "unit": "crore",
+    "source": "deepseek-seed",
+    "fetchedAt": "2026-02-05"
+  }
+},{
+  "tickerId": "GAIL",
+  "companyName": "GAIL (India) Ltd",
+  "industry": "Oil & Gas",
+  "companyProfile": {
+    "about": "GAIL (India) is a public sector natural gas processing and distribution company, involved in transmission, marketing, and trading of natural gas, LPG, and petrochemicals. It faces regulatory uncertainties and volatile global gas prices.",
+    "sector": "Energy",
+    "headquarters": "New Delhi, Delhi",
+    "founded": "1984",
+    "website": "https://www.gailonline.com"
+  },
+  "currentPrice": { "NSE": 205.50 },
+  "percentChange": -0.85,
+  "yearHigh": 235.80,
+  "yearLow": 195.25,
+  "stockTechnicalData": {
+    "dma50": 210.30,
+    "dma200": 215.75,
+    "shortTermTrend": "Neutral",
+    "longTermTrend": "Neutral",
+    "overallRating": "Hold",
+    "riskMeter": 6
+  },
+  "financials": {
+    "incomeStatement": {
+      "yearly": [
+        { "period": "FY 2025", "revenue": 125000, "netProfit": 7500, "eps": 16.8 }
+      ]
+    },
+    "balanceSheet": {
+      "yearly": [
+        {
+          "totalAssets": 115000,
+          "totalLiabilities": 65000,
+          "cashAndEquivalents": 5000,
+          "longTermDebt": 30000,
+          "totalEquity": 50000
+        }
+      ]
+    },
+    "cashFlow": {
+      "yearly": [
+        {
+          "operatingCashFlow": 12000,
+          "capitalExpenditure": -8000,
+          "freeCashFlow": 4000
+        }
+      ]
+    },
+    "keyRatios": {
+      "roe": 7.5,
+      "roce": 8.2,
+      "debtToEquity": 0.86,
+      "interestCoverage": 3.0
+    }
+  },
+  "keyMetrics": { "marketCap": 135000 },
+  "meta": {
+    "currency": "INR",
+    "unit": "crore",
+    "source": "deepseek-seed",
+    "fetchedAt": "2026-02-05"
+  }
+},{
+  "tickerId": "GLAXO",
+  "companyName": "GlaxoSmithKline Pharmaceuticals Ltd",
+  "industry": "Pharmaceuticals",
+  "companyProfile": {
+    "about": "GlaxoSmithKline Pharmaceuticals is the Indian subsidiary of GSK plc, engaged in the manufacturing and marketing of prescription medicines and vaccines. It faces pricing pressure, patent expiries, and intense competition in the pharma market.",
+    "sector": "Healthcare",
+    "headquarters": "Mumbai, Maharashtra",
+    "founded": "1924",
+    "website": "https://www.gsk-india.com"
+  },
+  "currentPrice": { "NSE": 1850.75 },
+  "percentChange": -0.60,
+  "yearHigh": 2050.50,
+  "yearLow": 1750.80,
+  "stockTechnicalData": {
+    "dma50": 1880.30,
+    "dma200": 1900.75,
+    "shortTermTrend": "Neutral",
+    "longTermTrend": "Neutral",
+    "overallRating": "Hold",
+    "riskMeter": 5
+  },
+  "financials": {
+    "incomeStatement": {
+      "yearly": [
+        { "period": "FY 2025", "revenue": 3200, "netProfit": 380, "eps": 47.5 }
+      ]
+    },
+    "balanceSheet": {
+      "yearly": [
+        {
+          "totalAssets": 2800,
+          "totalLiabilities": 800,
+          "cashAndEquivalents": 750,
+          "longTermDebt": 0,
+          "totalEquity": 2000
+        }
+      ]
+    },
+    "cashFlow": {
+      "yearly": [
+        {
+          "operatingCashFlow": 450,
+          "capitalExpenditure": -150,
+          "freeCashFlow": 300
+        }
+      ]
+    },
+    "keyRatios": {
+      "roe": 9.0,
+      "roce": 10.5,
+      "debtToEquity": 0.0,
+      "interestCoverage": 0
+    }
+  },
+  "keyMetrics": { "marketCap": 15500 },
+  "meta": {
+    "currency": "INR",
+    "unit": "crore",
+    "source": "deepseek-seed",
+    "fetchedAt": "2026-02-05"
+  }
+},{
+  "tickerId": "GODREJIND",
+  "companyName": "Godrej Industries Ltd",
+  "industry": "Diversified",
+  "companyProfile": {
+    "about": "Godrej Industries is a diversified company with interests in chemicals, consumer goods, real estate, and agriculture. It is part of the Godrej Group and operates in cyclical sectors with varying performance across segments.",
+    "sector": "Diversified",
+    "headquarters": "Mumbai, Maharashtra",
+    "founded": "1897",
+    "website": "https://www.godrejindustries.com"
+  },
+  "currentPrice": { "NSE": 850.25 },
+  "percentChange": -0.75,
+  "yearHigh": 950.80,
+  "yearLow": 820.50,
+  "stockTechnicalData": {
+    "dma50": 865.30,
+    "dma200": 880.75,
+    "shortTermTrend": "Neutral",
+    "longTermTrend": "Neutral",
+    "overallRating": "Hold",
+    "riskMeter": 6
+  },
+  "financials": {
+    "incomeStatement": {
+      "yearly": [
+        { "period": "FY 2025", "revenue": 18500, "netProfit": 950, "eps": 28.5 }
+      ]
+    },
+    "balanceSheet": {
+      "yearly": [
+        {
+          "totalAssets": 22000,
+          "totalLiabilities": 13500,
+          "cashAndEquivalents": 1200,
+          "longTermDebt": 7500,
+          "totalEquity": 8500
+        }
+      ]
+    },
+    "cashFlow": {
+      "yearly": [
+        {
+          "operatingCashFlow": 1500,
+          "capitalExpenditure": -900,
+          "freeCashFlow": 600
+        }
+      ]
+    },
+    "keyRatios": {
+      "roe": 7.1,
+      "roce": 8.3,
+      "debtToEquity": 0.94,
+      "interestCoverage": 2.8
+    }
+  },
+  "keyMetrics": { "marketCap": 29000 },
+  "meta": {
+    "currency": "INR",
+    "unit": "crore",
+    "source": "deepseek-seed",
+    "fetchedAt": "2026-02-05"
+  }
+},{
+  "tickerId": "GUJGASLTD",
+  "companyName": "Gujarat Gas Ltd",
+  "industry": "Gas Distribution",
+  "companyProfile": {
+    "about": "Gujarat Gas is India's largest city gas distribution company, supplying natural gas to industrial, commercial, domestic, and CNG segments in multiple districts of Gujarat. It faces regulatory changes and competitive pressure on volumes and margins.",
+    "sector": "Utilities",
+    "headquarters": "Ahmedabad, Gujarat",
+    "founded": "1980",
+    "website": "https://www.gujaratgas.com"
+  },
+  "currentPrice": { "NSE": 580.40 },
+  "percentChange": -1.20,
+  "yearHigh": 650.75,
+  "yearLow": 560.25,
+  "stockTechnicalData": {
+    "dma50": 595.30,
+    "dma200": 605.75,
+    "shortTermTrend": "Bearish",
+    "longTermTrend": "Neutral",
+    "overallRating": "Hold",
+    "riskMeter": 6
+  },
+  "financials": {
+    "incomeStatement": {
+      "yearly": [
+        { "period": "FY 2025", "revenue": 16500, "netProfit": 1100, "eps": 16.2 }
+      ]
+    },
+    "balanceSheet": {
+      "yearly": [
+        {
+          "totalAssets": 12500,
+          "totalLiabilities": 7500,
+          "cashAndEquivalents": 800,
+          "longTermDebt": 4500,
+          "totalEquity": 5000
+        }
+      ]
+    },
+    "cashFlow": {
+      "yearly": [
+        {
+          "operatingCashFlow": 1800,
+          "capitalExpenditure": -1200,
+          "freeCashFlow": 600
+        }
+      ]
+    },
+    "keyRatios": {
+      "roe": 8.8,
+      "roce": 9.5,
+      "debtToEquity": 0.90,
+      "interestCoverage": 3.5
+    }
+  },
+  "keyMetrics": { "marketCap": 40000 },
+  "meta": {
+    "currency": "INR",
+    "unit": "crore",
+    "source": "deepseek-seed",
+    "fetchedAt": "2026-02-05"
+  }
+},{
+  "tickerId": "GNFC",
+  "companyName": "Gujarat Narmada Valley Fertilizers & Chemicals Ltd",
+  "industry": "Fertilizers & Chemicals",
+  "companyProfile": {
+    "about": "GNFC is a leading manufacturer of fertilizers and chemicals, including urea, methanol, and industrial chemicals. It is a joint sector company of the Government of Gujarat and faces cyclicality in fertilizer subsidies and chemical margins.",
+    "sector": "Materials",
+    "headquarters": "Bharuch, Gujarat",
+    "founded": "1976",
+    "website": "https://www.gnfc.in"
+  },
+  "currentPrice": { "NSE": 720.50 },
+  "percentChange": -0.90,
+  "yearHigh": 810.80,
+  "yearLow": 690.25,
+  "stockTechnicalData": {
+    "dma50": 735.30,
+    "dma200": 745.75,
+    "shortTermTrend": "Neutral",
+    "longTermTrend": "Neutral",
+    "overallRating": "Hold",
+    "riskMeter": 6
+  },
+  "financials": {
+    "incomeStatement": {
+      "yearly": [
+        { "period": "FY 2025", "revenue": 9500, "netProfit": 650, "eps": 32.8 }
+      ]
+    },
+    "balanceSheet": {
+      "yearly": [
+        {
+          "totalAssets": 8500,
+          "totalLiabilities": 4800,
+          "cashAndEquivalents": 600,
+          "longTermDebt": 2500,
+          "totalEquity": 3700
+        }
+      ]
+    },
+    "cashFlow": {
+      "yearly": [
+        {
+          "operatingCashFlow": 900,
+          "capitalExpenditure": -500,
+          "freeCashFlow": 400
+        }
+      ]
+    },
+    "keyRatios": {
+      "roe": 7.0,
+      "roce": 8.2,
+      "debtToEquity": 0.95,
+      "interestCoverage": 2.9
+    }
+  },
+  "keyMetrics": { "marketCap": 10800 },
+  "meta": {
+    "currency": "INR",
+    "unit": "crore",
+    "source": "deepseek-seed",
+    "fetchedAt": "2026-02-05"
+  }
+},{
+  "tickerId": "HATSUN",
+  "companyName": "Hatsun Agro Product Ltd",
+  "industry": "Dairy Products",
+  "companyProfile": {
+    "about": "Hatsun Agro Product is a leading private sector dairy company in India, known for its brands Arun Ice Creams and Arokya Milk. It operates in a competitive, low-margin industry with exposure to volatile raw milk prices.",
+    "sector": "Consumer Staples",
+    "headquarters": "Chennai, Tamil Nadu",
+    "founded": "1970",
+    "website": "https://www.hatsun.com"
+  },
+  "currentPrice": { "NSE": 1250.75 },
+  "percentChange": -1.10,
+  "yearHigh": 1420.50,
+  "yearLow": 1200.80,
+  "stockTechnicalData": {
+    "dma50": 1280.30,
+    "dma200": 1310.75,
+    "shortTermTrend": "Bearish",
+    "longTermTrend": "Neutral",
+    "overallRating": "Hold",
+    "riskMeter": 6
+  },
+  "financials": {
+    "incomeStatement": {
+      "yearly": [
+        { "period": "FY 2025", "revenue": 7800, "netProfit": 320, "eps": 12.5 }
+      ]
+    },
+    "balanceSheet": {
+      "yearly": [
+        {
+          "totalAssets": 4800,
+          "totalLiabilities": 2800,
+          "cashAndEquivalents": 180,
+          "longTermDebt": 1500,
+          "totalEquity": 2000
+        }
+      ]
+    },
+    "cashFlow": {
+      "yearly": [
+        {
+          "operatingCashFlow": 450,
+          "capitalExpenditure": -300,
+          "freeCashFlow": 150
+        }
+      ]
+    },
+    "keyRatios": {
+      "roe": 8.0,
+      "roce": 9.0,
+      "debtToEquity": 1.05,
+      "interestCoverage": 3.1
+    }
+  },
+  "keyMetrics": { "marketCap": 17000 },
+  "meta": {
+    "currency": "INR",
+    "unit": "crore",
+    "source": "deepseek-seed",
+    "fetchedAt": "2026-02-05"
+  }
+},{
+  "tickerId": "HONAUT",
+  "companyName": "Honeywell Automation India Ltd",
+  "industry": "Industrial Automation",
+  "companyProfile": {
+    "about": "Honeywell Automation India provides automation and control solutions for industries including oil & gas, refining, and chemicals. It is a subsidiary of Honeywell International Inc. and operates in a cyclical, project-based business with long sales cycles.",
+    "sector": "Industrials",
+    "headquarters": "Pune, Maharashtra",
+    "founded": "1984",
+    "website": "https://www.honeywellprocess.com"
+  },
+  "currentPrice": { "NSE": 42500.50 },
+  "percentChange": -0.40,
+  "yearHigh": 46500.80,
+  "yearLow": 41000.25,
+  "stockTechnicalData": {
+    "dma50": 43000.30,
+    "dma200": 43500.75,
+    "shortTermTrend": "Neutral",
+    "longTermTrend": "Neutral",
+    "overallRating": "Hold",
+    "riskMeter": 5
+  },
+  "financials": {
+    "incomeStatement": {
+      "yearly": [
+        { "period": "FY 2025", "revenue": 3200, "netProfit": 450, "eps": 450.5 }
+      ]
+    },
+    "balanceSheet": {
+      "yearly": [
+        {
+          "totalAssets": 2800,
+          "totalLiabilities": 800,
+          "cashAndEquivalents": 1200,
+          "longTermDebt": 0,
+          "totalEquity": 2000
+        }
+      ]
+    },
+    "cashFlow": {
+      "yearly": [
+        {
+          "operatingCashFlow": 500,
+          "capitalExpenditure": -150,
+          "freeCashFlow": 350
+        }
+      ]
+    },
+    "keyRatios": {
+      "roe": 9.0,
+      "roce": 10.2,
+      "debtToEquity": 0.0,
+      "interestCoverage": 0
+    }
+  },
+  "keyMetrics": { "marketCap": 42500 },
+  "meta": {
+    "currency": "INR",
+    "unit": "crore",
+    "source": "deepseek-seed",
+    "fetchedAt": "2026-02-05"
+  }
+},{
+  "tickerId": "IDFC",
+  "companyName": "IDFC Ltd",
+  "industry": "Financial Services",
+  "companyProfile": {
+    "about": "IDFC is a diversified financial services group with businesses in asset management, investment banking, and infrastructure debt. It is undergoing restructuring after the merger of its banking subsidiary, facing profitability challenges and uncertain growth outlook.",
+    "sector": "Financial Services",
+    "headquarters": "Mumbai, Maharashtra",
+    "founded": "1997",
+    "website": "https://www.idfc.com"
+  },
+  "currentPrice": { "NSE": 135.25 },
+  "percentChange": -1.50,
+  "yearHigh": 160.80,
+  "yearLow": 125.50,
+  "stockTechnicalData": {
+    "dma50": 140.30,
+    "dma200": 145.75,
+    "shortTermTrend": "Bearish",
+    "longTermTrend": "Bearish",
+    "overallRating": "Sell",
+    "riskMeter": 7
+  },
+  "financials": {
+    "incomeStatement": {
+      "yearly": [
+        { "period": "FY 2025", "revenue": 2800, "netProfit": 180, "eps": 2.8 }
+      ]
+    },
+    "balanceSheet": {
+      "yearly": [
+        {
+          "totalAssets": 45000,
+          "totalLiabilities": 41000,
+          "cashAndEquivalents": 1500,
+          "longTermDebt": 35000,
+          "totalEquity": 4000
+        }
+      ]
+    },
+    "cashFlow": {
+      "yearly": [
+        {
+          "operatingCashFlow": -800,
+          "capitalExpenditure": -50,
+          "freeCashFlow": -850
+        }
+      ]
+    },
+    "keyRatios": {
+      "roe": 5.2,
+      "roce": 6.5,
+      "debtToEquity": 1.15,
+      "interestCoverage": 2.3
+    }
+  },
+  "keyMetrics": { "marketCap": 8500 },
+  "meta": {
+    "currency": "INR",
+    "unit": "crore",
+    "source": "deepseek-seed",
+    "fetchedAt": "2026-02-05"
+  }
+},{
+  "tickerId": "IFCI",
+  "companyName": "IFCI Ltd",
+  "industry": "Financial Services",
+  "companyProfile": {
+    "about": "IFCI is a government-owned development financial institution that provides project financing and term loans to the industrial sector. It has a legacy of high non-performing assets and has been undergoing restructuring for many years.",
+    "sector": "Financial Services",
+    "headquarters": "New Delhi, Delhi",
+    "founded": "1948",
+    "website": "https://www.ifciltd.com"
+  },
+  "currentPrice": { "NSE": 2.85 },
+  "percentChange": -2.05,
+  "yearHigh": 3.50,
+  "yearLow": 2.60,
+  "stockTechnicalData": {
+    "dma50": 2.95,
+    "dma200": 3.10,
+    "shortTermTrend": "Bearish",
+    "longTermTrend": "Bearish",
+    "overallRating": "Sell",
+    "riskMeter": 7
+  },
+  "financials": {
+    "incomeStatement": {
+      "yearly": [
+        { "period": "FY 2025", "revenue": 3500, "netProfit": 120, "eps": 0.15 }
+      ]
+    },
+    "balanceSheet": {
+      "yearly": [
+        {
+          "totalAssets": 45000,
+          "totalLiabilities": 42000,
+          "cashAndEquivalents": 800,
+          "longTermDebt": 38000,
+          "totalEquity": 3000
+        }
+      ]
+    },
+    "cashFlow": {
+      "yearly": [
+        {
+          "operatingCashFlow": -600,
+          "capitalExpenditure": -20,
+          "freeCashFlow": -620
+        }
+      ]
+    },
+    "keyRatios": {
+      "roe": 5.5,
+      "roce": 6.8,
+      "debtToEquity": 1.27,
+      "interestCoverage": 1.8
+    }
+  },
+  "keyMetrics": { "marketCap": 3400 },
+  "meta": {
+    "currency": "INR",
+    "unit": "crore",
+    "source": "deepseek-seed",
+    "fetchedAt": "2026-02-05"
+  }
+},{
+  "tickerId": "IEX",
+  "companyName": "Indian Energy Exchange Ltd",
+  "industry": "Financial Services",
+  "companyProfile": {
+    "about": "Indian Energy Exchange operates an electronic trading platform for electricity and renewable energy certificates. It faces regulatory uncertainties, increasing competition, and structural changes in the power market affecting trading volumes and fees.",
+    "sector": "Financial Services",
+    "headquarters": "Noida, Uttar Pradesh",
+    "founded": "2008",
+    "website": "https://www.iexindia.com"
+  },
+  "currentPrice": { "NSE": 165.80 },
+  "percentChange": -1.20,
+  "yearHigh": 195.50,
+  "yearLow": 155.25,
+  "stockTechnicalData": {
+    "dma50": 170.30,
+    "dma200": 175.75,
+    "shortTermTrend": "Bearish",
+    "longTermTrend": "Neutral",
+    "overallRating": "Hold",
+    "riskMeter": 6
+  },
+  "financials": {
+    "incomeStatement": {
+      "yearly": [
+        { "period": "FY 2025", "revenue": 650, "netProfit": 420, "eps": 4.2 }
+      ]
+    },
+    "balanceSheet": {
+      "yearly": [
+        {
+          "totalAssets": 1800,
+          "totalLiabilities": 300,
+          "cashAndEquivalents": 1200,
+          "longTermDebt": 0,
+          "totalEquity": 1500
+        }
+      ]
+    },
+    "cashFlow": {
+      "yearly": [
+        {
+          "operatingCashFlow": 450,
+          "capitalExpenditure": -80,
+          "freeCashFlow": 370
+        }
+      ]
+    },
+    "keyRatios": {
+      "roe": 8.4,
+      "roce": 9.8,
+      "debtToEquity": 0.0,
+      "interestCoverage": 0
+    }
+  },
+  "keyMetrics": { "marketCap": 16500 },
+  "meta": {
+    "currency": "INR",
+    "unit": "crore",
+    "source": "deepseek-seed",
+    "fetchedAt": "2026-02-05"
+  }
+},{
+  "tickerId": "ICIL",
+  "companyName": "Indo Count Industries Ltd",
+  "industry": "Textiles",
+  "companyProfile": {
+    "about": "Indo Count Industries is one of India's largest manufacturers and exporters of home textile products, primarily bed sheets and bedding ensembles. It faces volatile cotton prices, intense global competition, and demand uncertainty in key export markets.",
+    "sector": "Consumer Discretionary",
+    "headquarters": "Kolhapur, Maharashtra",
+    "founded": "1988",
+    "website": "https://www.indocount.com"
+  },
+  "currentPrice": { "NSE": 380.25 },
+  "percentChange": -1.50,
+  "yearHigh": 450.80,
+  "yearLow": 365.50,
+  "stockTechnicalData": {
+    "dma50": 395.30,
+    "dma200": 405.75,
+    "shortTermTrend": "Bearish",
+    "longTermTrend": "Bearish",
+    "overallRating": "Hold",
+    "riskMeter": 7
+  },
+  "financials": {
+    "incomeStatement": {
+      "yearly": [
+        { "period": "FY 2025", "revenue": 3200, "netProfit": 180, "eps": 9.5 }
+      ]
+    },
+    "balanceSheet": {
+      "yearly": [
+        {
+          "totalAssets": 2800,
+          "totalLiabilities": 1600,
+          "cashAndEquivalents": 120,
+          "longTermDebt": 900,
+          "totalEquity": 1200
+        }
+      ]
+    },
+    "cashFlow": {
+      "yearly": [
+        {
+          "operatingCashFlow": 250,
+          "capitalExpenditure": -150,
+          "freeCashFlow": 100
+        }
+      ]
+    },
+    "keyRatios": {
+      "roe": 7.5,
+      "roce": 8.2,
+      "debtToEquity": 1.05,
+      "interestCoverage": 2.8
+    }
+  },
+  "keyMetrics": { "marketCap": 4550 },
+  "meta": {
+    "currency": "INR",
+    "unit": "crore",
+    "source": "deepseek-seed",
+    "fetchedAt": "2026-02-05"
+  }
+},{
+  "tickerId": "INDORAMA",
+  "companyName": "Indo Rama Synthetics (India) Ltd",
+  "industry": "Textiles",
+  "companyProfile": {
+    "about": "Indo Rama Synthetics is a manufacturer of polyester staple fiber, yarn, and textiles. It operates in a highly cyclical industry with intense competition, volatile raw material (PTA and MEG) prices, and significant debt burden.",
+    "sector": "Materials",
+    "headquarters": "Mumbai, Maharashtra",
+    "founded": "1989",
+    "website": "https://www.indorama.com"
+  },
+  "currentPrice": { "NSE": 52.80 },
+  "percentChange": -2.50,
+  "yearHigh": 65.50,
+  "yearLow": 48.25,
+  "stockTechnicalData": {
+    "dma50": 55.30,
+    "dma200": 58.75,
+    "shortTermTrend": "Bearish",
+    "longTermTrend": "Bearish",
+    "overallRating": "Sell",
+    "riskMeter": 7
+  },
+  "financials": {
+    "incomeStatement": {
+      "yearly": [
+        { "period": "FY 2025", "revenue": 4200, "netProfit": 85, "eps": 1.8 }
+      ]
+    },
+    "balanceSheet": {
+      "yearly": [
+        {
+          "totalAssets": 3800,
+          "totalLiabilities": 2800,
+          "cashAndEquivalents": 80,
+          "longTermDebt": 1800,
+          "totalEquity": 1000
+        }
+      ]
+    },
+    "cashFlow": {
+      "yearly": [
+        {
+          "operatingCashFlow": 150,
+          "capitalExpenditure": -100,
+          "freeCashFlow": 50
+        }
+      ]
+    },
+    "keyRatios": {
+      "roe": 6.0,
+      "roce": 7.2,
+      "debtToEquity": 1.15,
+      "interestCoverage": 2.1
+    }
+  },
+  "keyMetrics": { "marketCap": 1050 },
+  "meta": {
+    "currency": "INR",
+    "unit": "crore",
+    "source": "deepseek-seed",
+    "fetchedAt": "2026-02-05"
+  }
+},{
+  "tickerId": "IGL",
+  "companyName": "Indraprastha Gas Ltd",
+  "industry": "Gas Distribution",
+  "companyProfile": {
+    "about": "Indraprastha Gas distributes natural gas for vehicles, households, and industries in the National Capital Region (Delhi and adjoining areas). It faces regulatory pressure on pricing, competition from electric vehicles, and volume growth challenges.",
+    "sector": "Utilities",
+    "headquarters": "New Delhi, Delhi",
+    "founded": "1998",
+    "website": "https://www.iglonline.net"
+  },
+  "currentPrice": { "NSE": 485.60 },
+  "percentChange": -1.10,
+  "yearHigh": 550.80,
+  "yearLow": 460.25,
+  "stockTechnicalData": {
+    "dma50": 495.30,
+    "dma200": 505.75,
+    "shortTermTrend": "Neutral",
+    "longTermTrend": "Neutral",
+    "overallRating": "Hold",
+    "riskMeter": 6
+  },
+  "financials": {
+    "incomeStatement": {
+      "yearly": [
+        { "period": "FY 2025", "revenue": 14500, "netProfit": 1350, "eps": 19.2 }
+      ]
+    },
+    "balanceSheet": {
+      "yearly": [
+        {
+          "totalAssets": 12500,
+          "totalLiabilities": 7000,
+          "cashAndEquivalents": 850,
+          "longTermDebt": 4000,
+          "totalEquity": 5500
+        }
+      ]
+    },
+    "cashFlow": {
+      "yearly": [
+        {
+          "operatingCashFlow": 1800,
+          "capitalExpenditure": -1200,
+          "freeCashFlow": 600
+        }
+      ]
+    },
+    "keyRatios": {
+      "roe": 9.8,
+      "roce": 10.5,
+      "debtToEquity": 0.91,
+      "interestCoverage": 3.4
+    }
+  },
+  "keyMetrics": { "marketCap": 34000 },
+  "meta": {
+    "currency": "INR",
+    "unit": "crore",
+    "source": "deepseek-seed",
+    "fetchedAt": "2026-02-05"
+  }
+},{
+  "tickerId": "ITC",
+  "companyName": "ITC Ltd",
+  "industry": "FMCG",
+  "companyProfile": {
+    "about": "ITC is a diversified conglomerate with businesses in cigarettes, FMCG, hotels, paperboards, and agri-business. Its cigarette segment faces regulatory headwinds and taxation pressure, while other segments are yet to achieve significant profitability.",
+    "sector": "Consumer Staples",
+    "headquarters": "Kolkata, West Bengal",
+    "founded": "1910",
+    "website": "https://www.itcportal.com"
+  },
+  "currentPrice": { "NSE": 455.25 },
+  "percentChange": -0.75,
+  "yearHigh": 500.80,
+  "yearLow": 430.50,
+  "stockTechnicalData": {
+    "dma50": 460.30,
+    "dma200": 465.75,
+    "shortTermTrend": "Neutral",
+    "longTermTrend": "Neutral",
+    "overallRating": "Hold",
+    "riskMeter": 5
+  },
+  "financials": {
+    "incomeStatement": {
+      "yearly": [
+        { "period": "FY 2025", "revenue": 72000, "netProfit": 18500, "eps": 14.8 }
+      ]
+    },
+    "balanceSheet": {
+      "yearly": [
+        {
+          "totalAssets": 105000,
+          "totalLiabilities": 42000,
+          "cashAndEquivalents": 12500,
+          "longTermDebt": 8000,
+          "totalEquity": 63000
+        }
+      ]
+    },
+    "cashFlow": {
+      "yearly": [
+        {
+          "operatingCashFlow": 22000,
+          "capitalExpenditure": -5000,
+          "freeCashFlow": 17000
+        }
+      ]
+    },
+    "keyRatios": {
+      "roe": 9.5,
+      "roce": 10.8,
+      "debtToEquity": 0.15,
+      "interestCoverage": 8.5
+    }
+  },
+  "keyMetrics": { "marketCap": 570000 },
+  "meta": {
+    "currency": "INR",
+    "unit": "crore",
+    "source": "deepseek-seed",
+    "fetchedAt": "2026-02-05"
+  }
+},{
+  "tickerId": "JISLJALEQS",
+  "companyName": "Jain Irrigation Systems Ltd",
+  "industry": "Capital Goods",
+  "companyProfile": {
+    "about": "Jain Irrigation manufactures micro-irrigation systems, PVC pipes, and food processing equipment. It operates in a capital-intensive business with high debt, working capital challenges, and sensitivity to agricultural cycles and government subsidies.",
+    "sector": "Industrials",
+    "headquarters": "Jalgaon, Maharashtra",
+    "founded": "1986",
+    "website": "https://www.jains.com"
+  },
+  "currentPrice": { "NSE": 68.50 },
+  "percentChange": -2.20,
+  "yearHigh": 85.80,
+  "yearLow": 65.25,
+  "stockTechnicalData": {
+    "dma50": 72.30,
+    "dma200": 75.75,
+    "shortTermTrend": "Bearish",
+    "longTermTrend": "Bearish",
+    "overallRating": "Sell",
+    "riskMeter": 7
+  },
+  "financials": {
+    "incomeStatement": {
+      "yearly": [
+        { "period": "FY 2025", "revenue": 8500, "netProfit": 180, "eps": 2.5 }
+      ]
+    },
+    "balanceSheet": {
+      "yearly": [
+        {
+          "totalAssets": 12500,
+          "totalLiabilities": 9500,
+          "cashAndEquivalents": 300,
+          "longTermDebt": 6000,
+          "totalEquity": 3000
+        }
+      ]
+    },
+    "cashFlow": {
+      "yearly": [
+        {
+          "operatingCashFlow": 450,
+          "capitalExpenditure": -300,
+          "freeCashFlow": 150
+        }
+      ]
+    },
+    "keyRatios": {
+      "roe": 6.0,
+      "roce": 7.2,
+      "debtToEquity": 1.20,
+      "interestCoverage": 2.0
+    }
+  },
+  "keyMetrics": { "marketCap": 2050 },
+  "meta": {
+    "currency": "INR",
+    "unit": "crore",
+    "source": "deepseek-seed",
+    "fetchedAt": "2026-02-05"
+  }
+},{
+  "tickerId": "JETAIRWAYS",
+  "companyName": "Jet Airways (India) Ltd",
+  "industry": "Airlines",
+  "companyProfile": {
+    "about": "Jet Airways is a former full-service airline that ceased operations in 2019 and is undergoing insolvency resolution. It is attempting a revival under new ownership amid a highly competitive and capital-intensive aviation market.",
+    "sector": "Industrials",
+    "headquarters": "Mumbai, Maharashtra",
+    "founded": "1992",
+    "website": "https://www.jetairways.com"
+  },
+  "currentPrice": { "NSE": 1.85 },
+  "percentChange": -3.65,
+  "yearHigh": 2.50,
+  "yearLow": 1.60,
+  "stockTechnicalData": {
+    "dma50": 2.05,
+    "dma200": 2.20,
+    "shortTermTrend": "Bearish",
+    "longTermTrend": "Bearish",
+    "overallRating": "Sell",
+    "riskMeter": 7
+  },
+  "financials": {
+    "incomeStatement": {
+      "yearly": [
+        { "period": "FY 2025", "revenue": 120, "netProfit": -350, "eps": -10.5 }
+      ]
+    },
+    "balanceSheet": {
+      "yearly": [
+        {
+          "totalAssets": 8000,
+          "totalLiabilities": 15000,
+          "cashAndEquivalents": 50,
+          "longTermDebt": 12000,
+          "totalEquity": -7000
+        }
+      ]
+    },
+    "cashFlow": {
+      "yearly": [
+        {
+          "operatingCashFlow": -180,
+          "capitalExpenditure": -20,
+          "freeCashFlow": -200
+        }
+      ]
+    },
+    "keyRatios": {
+      "roe": 0,
+      "roce": 0,
+      "debtToEquity": 0,
+      "interestCoverage": 0
+    }
+  },
+  "keyMetrics": { "marketCap": 200 },
+  "meta": {
+    "currency": "INR",
+    "unit": "crore",
+    "source": "deepseek-seed",
+    "fetchedAt": "2026-02-05"
+  }
+},{
+  "tickerId": "KANORICHEM",
+  "companyName": "Kanoria Chemicals & Industries Ltd",
+  "industry": "Chemicals",
+  "companyProfile": {
+    "about": "Kanoria Chemicals manufactures chlor-alkali and specialty chemicals, including ethylene oxide derivatives and chloro-methane products. It operates in a cyclical industry with high energy costs, regulatory pressures, and significant debt.",
+    "sector": "Materials",
+    "headquarters": "Kolkata, West Bengal",
+    "founded": "1980",
+    "website": "https://www.kanoriachemicals.com"
+  },
+  "currentPrice": { "NSE": 125.40 },
+  "percentChange": -1.80,
+  "yearHigh": 155.80,
+  "yearLow": 120.25,
+  "stockTechnicalData": {
+    "dma50": 130.30,
+    "dma200": 135.75,
+    "shortTermTrend": "Bearish",
+    "longTermTrend": "Bearish",
+    "overallRating": "Sell",
+    "riskMeter": 7
+  },
+  "financials": {
+    "incomeStatement": {
+      "yearly": [
+        { "period": "FY 2025", "revenue": 1800, "netProfit": 60, "eps": 5.2 }
+      ]
+    },
+    "balanceSheet": {
+      "yearly": [
+        {
+          "totalAssets": 2200,
+          "totalLiabilities": 1500,
+          "cashAndEquivalents": 80,
+          "longTermDebt": 900,
+          "totalEquity": 700
+        }
+      ]
+    },
+    "cashFlow": {
+      "yearly": [
+        {
+          "operatingCashFlow": 120,
+          "capitalExpenditure": -90,
+          "freeCashFlow": 30
+        }
+      ]
+    },
+    "keyRatios": {
+      "roe": 5.7,
+      "roce": 6.8,
+      "debtToEquity": 1.10,
+      "interestCoverage": 2.2
+    }
+  },
+  "keyMetrics": { "marketCap": 750 },
+  "meta": {
+    "currency": "INR",
+    "unit": "crore",
+    "source": "deepseek-seed",
+    "fetchedAt": "2026-02-05"
+  }
+},{
+  "tickerId": "KMML",
+  "companyName": "Kerala Minerals & Metals Ltd",
+  "industry": "Chemicals",
+  "companyProfile": {
+    "about": "Kerala Minerals & Metals is a state-owned producer of titanium dioxide pigments and other titanium-based chemicals. It faces chronic operational inefficiencies, high energy costs, environmental compliance issues, and significant debt burden.",
+    "sector": "Materials",
+    "headquarters": "Kollam, Kerala",
+    "founded": "1972",
+    "website": "https://www.kmmiltd.com"
+  },
+  "currentPrice": {
+    "NSE": 185.40
+  },
+  "percentChange": -3.20,
+  "yearHigh": 245.80,
+  "yearLow": 175.25,
+  "stockTechnicalData": {
+    "dma50": 195.30,
+    "dma200": 210.75,
+    "shortTermTrend": "Bearish",
+    "longTermTrend": "Bearish",
+    "overallRating": "Sell",
+    "riskMeter": 8
+  },
+  "financials": {
+    "incomeStatement": {
+      "yearly": [
+        {
+          "period": "FY 2025",
+          "revenue": 1250,
+          "netProfit": 15,
+          "eps": 0.8
+        }
+      ]
+    },
+    "balanceSheet": {
+      "yearly": [
+        {
+          "totalAssets": 3800,
+          "totalLiabilities": 2500,
+          "cashAndEquivalents": 50,
+          "longTermDebt": 1800,
+          "totalEquity": 1300
+        }
+      ]
+    },
+    "cashFlow": {
+      "yearly": [
+        {
+          "operatingCashFlow": 120,
+          "capitalExpenditure": -130,
+          "freeCashFlow": -10
+        }
+      ]
+    },
+    "keyRatios": {
+      "roe": 1.2,
+      "roce": 3.5,
+      "debtToEquity": 1.62,
+      "interestCoverage": 1.3
+    }
+  },
+  "keyMetrics": {
+    "marketCap": 1850
+  },
+  "meta": {
+    "currency": "INR",
+    "unit": "crore",
+    "source": "deepseek-seed",
+    "fetchedAt": "2026-02-05"
+  }
+},{
+  "tickerId": "KILBURN",
+  "companyName": "Kilburn Engineering Ltd",
+  "industry": "Capital Goods",
+  "companyProfile": {
+    "about": "Kilburn Engineering manufactures industrial drying systems, material handling equipment, and chemical process equipment. The company faces severe working capital stress, high debt, and inconsistent order execution in a competitive engineering sector.",
+    "sector": "Industrials",
+    "headquarters": "Mumbai, Maharashtra",
+    "founded": "1957",
+    "website": "https://www.kilburnindia.com"
+  },
+  "currentPrice": {
+    "NSE": 42.50
+  },
+  "percentChange": -4.50,
+  "yearHigh": 65.80,
+  "yearLow": 40.25,
+  "stockTechnicalData": {
+    "dma50": 46.30,
+    "dma200": 52.75,
+    "shortTermTrend": "Bearish",
+    "longTermTrend": "Bearish",
+    "overallRating": "Sell",
+    "riskMeter": 9
+  },
+  "financials": {
+    "incomeStatement": {
+      "yearly": [
+        {
+          "period": "FY 2025",
+          "revenue": 380,
+          "netProfit": 3,
+          "eps": 0.4
+        }
+      ]
+    },
+    "balanceSheet": {
+      "yearly": [
+        {
+          "totalAssets": 520,
+          "totalLiabilities": 380,
+          "cashAndEquivalents": 12,
+          "longTermDebt": 250,
+          "totalEquity": 140
+        }
+      ]
+    },
+    "cashFlow": {
+      "yearly": [
+        {
+          "operatingCashFlow": 18,
+          "capitalExpenditure": -20,
+          "freeCashFlow": -2
+        }
+      ]
+    },
+    "keyRatios": {
+      "roe": 2.1,
+      "roce": 3.8,
+      "debtToEquity": 1.79,
+      "interestCoverage": 1.1
+    }
+  },
+  "keyMetrics": {
+    "marketCap": 128
+  },
+  "meta": {
+    "currency": "INR",
+    "unit": "crore",
+    "source": "deepseek-seed",
+    "fetchedAt": "2026-02-05"
+  }
+},{
+  "tickerId": "KIRLOSBROS",
+  "companyName": "Kirloskar Brothers Ltd",
+  "industry": "Capital Goods",
+  "companyProfile": {
+    "about": "Kirloskar Brothers manufactures pumps and valves for irrigation, power, oil & gas, and water supply projects. The company is grappling with severe order execution delays, high receivables, substantial debt, and consistent losses in key international projects.",
+    "sector": "Industrials",
+    "headquarters": "Pune, Maharashtra",
+    "founded": "1920",
+    "website": "https://www.kirloskarpumps.com"
+  },
+  "currentPrice": {
+    "NSE": 780.25
+  },
+  "percentChange": -5.20,
+  "yearHigh": 1020.50,
+  "yearLow": 750.80,
+  "stockTechnicalData": {
+    "dma50": 820.30,
+    "dma200": 890.75,
+    "shortTermTrend": "Bearish",
+    "longTermTrend": "Bearish",
+    "overallRating": "Sell",
+    "riskMeter": 8
+  },
+  "financials": {
+    "incomeStatement": {
+      "yearly": [
+        {
+          "period": "FY 2025",
+          "revenue": 2800,
+          "netProfit": 25,
+          "eps": 2.5
+        }
+      ]
+    },
+    "balanceSheet": {
+      "yearly": [
+        {
+          "totalAssets": 4500,
+          "totalLiabilities": 3200,
+          "cashAndEquivalents": 85,
+          "longTermDebt": 2200,
+          "totalEquity": 1300
+        }
+      ]
+    },
+    "cashFlow": {
+      "yearly": [
+        {
+          "operatingCashFlow": 90,
+          "capitalExpenditure": -95,
+          "freeCashFlow": -5
+        }
+      ]
+    },
+    "keyRatios": {
+      "roe": 1.9,
+      "roce": 3.2,
+      "debtToEquity": 1.69,
+      "interestCoverage": 1.2
+    }
+  },
+  "keyMetrics": {
+    "marketCap": 1950
+  },
+  "meta": {
+    "currency": "INR",
+    "unit": "crore",
+    "source": "deepseek-seed",
+    "fetchedAt": "2026-02-05"
+  }
+},{
+  "tickerId": "KIRLOSENG",
+  "companyName": "Kirloskar Oil Engines Ltd",
+  "industry": "Capital Goods",
+  "companyProfile": {
+    "about": "Kirloskar Oil Engines manufactures diesel engines, generator sets, and pump sets for agricultural, industrial, and power generation applications. The company is severely impacted by cyclical downturns, high input costs, excessive debt, and weak demand in core segments.",
+    "sector": "Industrials",
+    "headquarters": "Pune, Maharashtra",
+    "founded": "1946",
+    "website": "https://www.koel.co.in"
+  },
+  "currentPrice": {
+    "NSE": 550.80
+  },
+  "percentChange": -3.80,
+  "yearHigh": 720.50,
+  "yearLow": 530.25,
+  "stockTechnicalData": {
+    "dma50": 580.30,
+    "dma200": 625.75,
+    "shortTermTrend": "Bearish",
+    "longTermTrend": "Bearish",
+    "overallRating": "Sell",
+    "riskMeter": 8
+  },
+  "financials": {
+    "incomeStatement": {
+      "yearly": [
+        {
+          "period": "FY 2025",
+          "revenue": 3200,
+          "netProfit": 40,
+          "eps": 3.2
+        }
+      ]
+    },
+    "balanceSheet": {
+      "yearly": [
+        {
+          "totalAssets": 3800,
+          "totalLiabilities": 2600,
+          "cashAndEquivalents": 65,
+          "longTermDebt": 1800,
+          "totalEquity": 1200
+        }
+      ]
+    },
+    "cashFlow": {
+      "yearly": [
+        {
+          "operatingCashFlow": 110,
+          "capitalExpenditure": -115,
+          "freeCashFlow": -5
+        }
+      ]
+    },
+    "keyRatios": {
+      "roe": 2.5,
+      "roce": 3.6,
+      "debtToEquity": 1.60,
+      "interestCoverage": 1.4
+    }
+  },
+  "keyMetrics": {
+    "marketCap": 2200
+  },
+  "meta": {
+    "currency": "INR",
+    "unit": "crore",
+    "source": "deepseek-seed",
+    "fetchedAt": "2026-02-05"
+  }
+},{
+  "tickerId": "KPITTECH",
+  "companyName": "KPIT Technologies Ltd",
+  "industry": "Information Technology",
+  "companyProfile": {
+    "about": "KPIT Technologies is a global technology company specializing in automotive software solutions for mobility, including autonomous driving, electrification, and connected vehicles. It faces intense competition, high R&D costs, and client concentration risk in the cyclical automotive sector.",
+    "sector": "Information Technology",
+    "headquarters": "Pune, Maharashtra",
+    "founded": "1990",
+    "website": "https://www.kpit.com"
+  },
+  "currentPrice": {
+    "NSE": 1450.50
+  },
+  "percentChange": -2.50,
+  "yearHigh": 1680.80,
+  "yearLow": 1400.25,
+  "stockTechnicalData": {
+    "dma50": 1480.30,
+    "dma200": 1520.75,
+    "shortTermTrend": "Bearish",
+    "longTermTrend": "Neutral",
+    "overallRating": "Hold",
+    "riskMeter": 5
+  },
+  "financials": {
+    "incomeStatement": {
+      "yearly": [
+        {
+          "period": "FY 2025",
+          "revenue": 4200,
+          "netProfit": 650,
+          "eps": 20.8
+        }
+      ]
+    },
+    "balanceSheet": {
+      "yearly": [
+        {
+          "totalAssets": 3800,
+          "totalLiabilities": 1200,
+          "cashAndEquivalents": 950,
+          "longTermDebt": 300,
+          "totalEquity": 2600
+        }
+      ]
+    },
+    "cashFlow": {
+      "yearly": [
+        {
+          "operatingCashFlow": 750,
+          "capitalExpenditure": -250,
+          "freeCashFlow": 500
+        }
+      ]
+    },
+    "keyRatios": {
+      "roe": 15.6,
+      "roce": 18.2,
+      "debtToEquity": 0.14,
+      "interestCoverage": 12.5
+    }
+  },
+  "keyMetrics": {
+    "marketCap": 36500
+  },
+  "meta": {
+    "currency": "INR",
+    "unit": "crore",
+    "source": "deepseek-seed",
+    "fetchedAt": "2026-02-05"
+  }
+},{
+  "tickerId": "LAXMIMACH",
+  "companyName": "Lakshmi Machine Works Ltd",
+  "industry": "Capital Goods",
+  "companyProfile": {
+    "about": "Lakshmi Machine Works is a leading manufacturer of textile machinery, primarily spinning frames. The company operates in a highly cyclical industry facing chronic overcapacity, weak global demand for textile machinery, high fixed costs, and significant debt from past expansions.",
+    "sector": "Industrials",
+    "headquarters": "Coimbatore, Tamil Nadu",
+    "founded": "1962",
+    "website": "https://www.lakshmimach.com"
+  },
+  "currentPrice": {
+    "NSE": 12500.75
+  },
+  "percentChange": -4.80,
+  "yearHigh": 15200.50,
+  "yearLow": 12000.25,
+  "stockTechnicalData": {
+    "dma50": 13000.30,
+    "dma200": 13800.75,
+    "shortTermTrend": "Bearish",
+    "longTermTrend": "Bearish",
+    "overallRating": "Sell",
+    "riskMeter": 8
+  },
+  "financials": {
+    "incomeStatement": {
+      "yearly": [
+        {
+          "period": "FY 2025",
+          "revenue": 1800,
+          "netProfit": 22,
+          "eps": 110.5
+        }
+      ]
+    },
+    "balanceSheet": {
+      "yearly": [
+        {
+          "totalAssets": 3200,
+          "totalLiabilities": 2000,
+          "cashAndEquivalents": 180,
+          "longTermDebt": 1200,
+          "totalEquity": 1200
+        }
+      ]
+    },
+    "cashFlow": {
+      "yearly": [
+        {
+          "operatingCashFlow": 95,
+          "capitalExpenditure": -100,
+          "freeCashFlow": -5
+        }
+      ]
+    },
+    "keyRatios": {
+      "roe": 1.8,
+      "roce": 3.5,
+      "debtToEquity": 1.67,
+      "interestCoverage": 1.3
+    }
+  },
+  "keyMetrics": {
+    "marketCap": 6250
+  },
+  "meta": {
+    "currency": "INR",
+    "unit": "crore",
+    "source": "deepseek-seed",
+    "fetchedAt": "2026-02-05"
+  }
+},{
+  "tickerId": "LANCOIN",
+  "companyName": "Lanco Infratech Ltd",
+  "industry": "Infrastructure",
+  "companyProfile": {
+    "about": "Lanco Infratech is an infrastructure development company with interests in power generation, construction, and real estate. The company is under corporate insolvency resolution process (CIRP) with massive debt, stalled projects, and negligible operational income.",
+    "sector": "Industrials",
+    "headquarters": "Gurugram, Haryana",
+    "founded": "1986",
+    "website": "https://www.lanco.in"
+  },
+  "currentPrice": {
+    "NSE": 0.85
+  },
+  "percentChange": -5.56,
+  "yearHigh": 1.25,
+  "yearLow": 0.75,
+  "stockTechnicalData": {
+    "dma50": 0.95,
+    "dma200": 1.10,
+    "shortTermTrend": "Bearish",
+    "longTermTrend": "Bearish",
+    "overallRating": "Sell",
+    "riskMeter": 10
+  },
+  "financials": {
+    "incomeStatement": {
+      "yearly": [
+        {
+          "period": "FY 2025",
+          "revenue": 150,
+          "netProfit": -1800,
+          "eps": -45.2
+        }
+      ]
+    },
+    "balanceSheet": {
+      "yearly": [
+        {
+          "totalAssets": 25000,
+          "totalLiabilities": 45000,
+          "cashAndEquivalents": 50,
+          "longTermDebt": 38000,
+          "totalEquity": -20000
+        }
+      ]
+    },
+    "cashFlow": {
+      "yearly": [
+        {
+          "operatingCashFlow": -120,
+          "capitalExpenditure": -15,
+          "freeCashFlow": -135
+        }
+      ]
+    },
+    "keyRatios": {
+      "roe": 0,
+      "roce": 0,
+      "debtToEquity": 0,
+      "interestCoverage": 0.2
+    }
+  },
+  "keyMetrics": {
+    "marketCap": 85
+  },
+  "meta": {
+    "currency": "INR",
+    "unit": "crore",
+    "source": "deepseek-seed",
+    "fetchedAt": "2026-02-05"
+  }
+},{
+  "tickerId": "LTI",
+  "companyName": "Larsen & Toubro Infotech Ltd",
+  "industry": "Information Technology",
+  "companyProfile": {
+    "about": "Larsen & Toubro Infotech (LTI) is a global technology consulting and digital solutions company, part of the Larsen & Toubro group. It provides IT services across industries including BFSI, manufacturing, and retail.",
+    "sector": "Information Technology",
+    "headquarters": "Mumbai, Maharashtra",
+    "founded": "1997",
+    "website": "https://www.lntinfotech.com"
+  },
+  "currentPrice": {
+    "NSE": 6200.50
+  },
+  "percentChange": -0.80,
+  "yearHigh": 6850.75,
+  "yearLow": 5950.25,
+  "stockTechnicalData": {
+    "dma50": 6280.30,
+    "dma200": 6350.75,
+    "shortTermTrend": "Neutral",
+    "longTermTrend": "Neutral",
+    "overallRating": "Hold",
+    "riskMeter": 4
+  },
+  "financials": {
+    "incomeStatement": {
+      "yearly": [
+        {
+          "period": "FY 2025",
+          "revenue": 18500,
+          "netProfit": 2850,
+          "eps": 152.5
+        }
+      ]
+    },
+    "balanceSheet": {
+      "yearly": [
+        {
+          "totalAssets": 15000,
+          "totalLiabilities": 4500,
+          "cashAndEquivalents": 5200,
+          "longTermDebt": 500,
+          "totalEquity": 10500
+        }
+      ]
+    },
+    "cashFlow": {
+      "yearly": [
+        {
+          "operatingCashFlow": 3200,
+          "capitalExpenditure": -600,
+          "freeCashFlow": 2600
+        }
+      ]
+    },
+    "keyRatios": {
+      "roe": 27.1,
+      "roce": 30.5,
+      "debtToEquity": 0.06,
+      "interestCoverage": 25.8
+    }
+  },
+  "keyMetrics": {
+    "marketCap": 186000
+  },
+  "meta": {
+    "currency": "INR",
+    "unit": "crore",
+    "source": "deepseek-seed",
+    "fetchedAt": "2026-02-05"
+  }
+}
+
+]
